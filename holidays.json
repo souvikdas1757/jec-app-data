@@ -1,0 +1,105 @@
+      "name": "Janmotsav of Srimanta Sankardeva",
+      "date": "21 Sep 2026",
+      "day": "Monday",
+      "type": "Public Holiday"
+    },
+    {
+      "id": "38",
+      "name": "Karam Puja",
+      "date": "22 Sep 2026",
+      "day": "Tuesday",
+      "type": "Public Holiday"
+    },
+    {
+      "id": "39",
+      "name": "Birthday of Mahatma Gandhi",
+      "date": "02 Oct 2026",
+      "day": "Friday",
+      "type": "National Holiday"
+    },
+    {
+      "id": "40",
+      "name": "Kati Bihu & Durga Puja",
+      "date": "18 Oct 2026",
+      "day": "Sunday",
+      "type": "Public Holiday"
+    },
+    {
+      "id": "41",
+      "name": "Durga Puja & Vijaya Dashami",
+      "date": "19 Oct 2026",
+      "day": "Monday",
+      "type": "Public Holiday"
+    },
+    {
+      "id": "42",
+      "name": "Durga Puja",
+      "date": "20 Oct 2026",
+      "day": "Tuesday",
+      "type": "Public Holiday"
+    },
+    {
+      "id": "43",
+      "name": "Durga Puja",
+      "date": "21 Oct 2026",
+      "day": "Wednesday",
+      "type": "Public Holiday"
+    },
+    {
+      "id": "44",
+      "name": "Lakshmi Puja (Half Holiday)",
+      "date": "25 Oct 2026",
+      "day": "Sunday",
+      "type": "Half Holiday"
+    },
+    {
+      "id": "45",
+      "name": "Kali Puja & Diwali",
+      "date": "08 Nov 2026",
+      "day": "Sunday",
+      "type": "Public Holiday"
+    },
+    {
+      "id": "46",
+      "name": "Bhatri Dwitiya",
+      "date": "11 Nov 2026",
+      "day": "Wednesday",
+      "type": "Public Holiday"
+    },
+    {
+      "id": "47",
+      "name": "Chhath Puja",
+      "date": "15 Nov 2026",
+      "day": "Sunday",
+      "type": "Public Holiday"
+    },
+    {
+      "id": "48",
+      "name": "Guru Nanak's Birthday & Lachit Divas",
+      "date": "24 Nov 2026",
+      "day": "Tuesday",
+      "type": "Public Holiday"
+    },
+    {
+      "id": "49",
+      "name": "Asom Divas (Su-Ka-Pha Divas)",
+      "date": "02 Dec 2026",
+      "day": "Wednesday",
+      "type": "Public Holiday"
+    },
+    {
+      "id": "50",
+      "name": "Christmas Day",
+      "date": "25 Dec 2026",
+      "day": "Friday",
+      "type": "Public Holiday"
+    }
+  ],
+  "recurring": {
+    "weekly": [
+      "Sunday"
+    ],
+    "secondAndFourthSaturdays": true,
+    "bankAnnualClosing": "2026-04-01"
+  }
+}
