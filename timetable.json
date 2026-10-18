@@ -1,0 +1,54 @@
+
+{
+  "CSE": {
+    "3": [
+      {
+        "day": "Monday",
+        "classes": [
+          {
+            "time": "08:00 - 09:00",
+            "subject": "Minor Subject",
+            "room": "TBA",
+            "type": "Lecture",
+            "color": "#9CA3AF"
+          },
+          {
+            "time": "09:00 - 10:00",
+            "subject": "Object-Oriented Programming",
+            "room": "TBA",
+            "type": "Lecture",
+            "color": "#F472B6"
+          },
+          {
+            "time": "10:30 - 11:30",
+            "subject": "Software Engineering",
+            "room": "TBA",
+            "type": "Lecture",
+            "color": "#34D399"
+          },
+          {
+            "time": "11:30 - 12:30",
+            "subject": "Mathematics III",
+            "room": "TBA",
+            "type": "Lecture",
+            "color": "#FBBF24"
+          },
+          {
+            "time": "02:00 - 03:00",
+            "subject": "No Class",
+            "room": "-",
+            "type": "Break",
+            "color": "#9CA3AF"
+          },
+          {
+            "time": "03:00 - 04:00",
+            "subject": "Data Structures and Algorithms Lab",
+            "room": "TBA",
+            "type": "Lab",
+            "color": "#A78BFA"
+          }
+        ]
+      }
+    ]
+  }
+}
