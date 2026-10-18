@@ -81,28 +81,6 @@
           { "time": "02:00 - 03:00", "subject": "No Class", "room": "-", "type": "Break", "color": "#9CA3AF" },
           { "time": "03:00 - 04:00", "subject": "No Class", "room": "-", "type": "Break", "color": "#9CA3AF" }
         ]
-      },
-      {
-        "day": "Friday",
-        "classes": [
-          { "time": "08:00 - 09:00", "subject": "CV (PH)", "room": "TBA", "type": "Lecture", "color": "#60A5FA" },
-          { "time": "09:00 - 10:00", "subject": "CV (PH)", "room": "TBA", "type": "Lecture", "color": "#60A5FA" },
-          { "time": "10:30 - 11:30", "subject": "PS-IV (TB)", "room": "TBA", "type": "Lecture", "color": "#A78BFA" },
-          { "time": "11:30 - 12:30", "subject": "HV (BKT)", "room": "TBA", "type": "Lecture", "color": "#FBBF24" },
-          { "time": "02:00 - 03:00", "subject": "No Class", "room": "-", "type": "Break", "color": "#9CA3AF" },
-          { "time": "03:00 - 04:00", "subject": "No Class", "room": "-", "type": "Break", "color": "#9CA3AF" }
-        ]
-      },
-      {
-        "day": "Saturday",
-        "classes": [
-          { "time": "08:00 - 09:00", "subject": "PS-IV (TB)", "room": "TBA", "type": "Lecture", "color": "#A78BFA" },
-          { "time": "09:00 - 10:00", "subject": "HV (BKT)", "room": "TBA", "type": "Lecture", "color": "#FBBF24" },
-          { "time": "10:30 - 11:30", "subject": "FACTS (ABK)", "room": "TBA", "type": "Lecture", "color": "#FB923C" },
-          { "time": "11:30 - 12:30", "subject": "FACTS (ABK)", "room": "TBA", "type": "Lecture", "color": "#FB923C" },
-          { "time": "02:00 - 03:00", "subject": "No Class", "room": "-", "type": "Break", "color": "#9CA3AF" },
-          { "time": "03:00 - 04:00", "subject": "No Class", "room": "-", "type": "Break", "color": "#9CA3AF" }
-        ]
       }
     ]
   },
@@ -118,58 +96,71 @@
           { "time": "02:00 - 03:00", "subject": "Machines Lab", "room": "TBA", "type": "Lab", "color": "#A78BFA" },
           { "time": "03:00 - 04:00", "subject": "Machines Lab", "room": "TBA", "type": "Lab", "color": "#A78BFA" }
         ]
+      }
+    ]
+  },
+  "ME": {
+    "3": [
+      {
+        "day": "Monday",
+        "classes": [
+          { "time": "08:00 - 09:00", "subject": "Minor Subjects", "room": "TBA", "type": "Lecture", "color": "#9CA3AF" },
+          { "time": "09:00 - 10:00", "subject": "Theory of Machines", "room": "TBA", "type": "Lecture", "color": "#60A5FA" },
+          { "time": "10:30 - 11:30", "subject": "Basic Thermodynamics", "room": "TBA", "type": "Lecture", "color": "#F472B6" },
+          { "time": "11:30 - 12:30", "subject": "Mathematics III-A", "room": "TBA", "type": "Lecture", "color": "#FBBF24" },
+          { "time": "02:00 - 03:00", "subject": "Indian Knowledge Systems", "room": "TBA", "type": "Lecture", "color": "#34D399" },
+          { "time": "03:00 - 04:00", "subject": "Language other than MIL", "room": "TBA", "type": "Lecture", "color": "#A78BFA" }
+        ]
       },
       {
         "day": "Tuesday",
         "classes": [
-          { "time": "08:00 - 09:00", "subject": "Electromagnetic Fields", "room": "TBA", "type": "Lecture", "color": "#34D399" },
-          { "time": "09:00 - 10:00", "subject": "Circuit Theory", "room": "TBA", "type": "Lecture", "color": "#60A5FA" },
-          { "time": "10:30 - 11:30", "subject": "Electrical Machines I", "room": "TBA", "type": "Lecture", "color": "#F472B6" },
-          { "time": "11:30 - 12:30", "subject": "No Class", "room": "-", "type": "Break", "color": "#9CA3AF" },
-          { "time": "02:00 - 03:00", "subject": "No Class", "room": "-", "type": "Break", "color": "#9CA3AF" },
-          { "time": "03:00 - 04:00", "subject": "No Class", "room": "-", "type": "Break", "color": "#9CA3AF" }
+          { "time": "08:00 - 09:00", "subject": "Minor Subjects", "room": "TBA", "type": "Lecture", "color": "#9CA3AF" },
+          { "time": "09:00 - 10:00", "subject": "Basic Thermodynamics", "room": "TBA", "type": "Lecture", "color": "#F472B6" },
+          { "time": "10:30 - 11:30", "subject": "Machine Tools and Metal Cutting", "room": "TBA", "type": "Lecture", "color": "#22D3EE" },
+          { "time": "11:30 - 12:30", "subject": "Mechanics of Materials", "room": "TBA", "type": "Lecture", "color": "#FB923C" },
+          { "time": "02:00 - 03:00", "subject": "Language other than MIL", "room": "TBA", "type": "Lecture", "color": "#A78BFA" },
+          { "time": "03:00 - 04:00", "subject": "Indian Knowledge Systems", "room": "TBA", "type": "Lecture", "color": "#34D399" }
         ]
       },
       {
         "day": "Wednesday",
         "classes": [
-          { "time": "08:00 - 09:00", "subject": "Mathematics III", "room": "TBA", "type": "Lecture", "color": "#FBBF24" },
-          { "time": "09:00 - 10:00", "subject": "Electromagnetic Fields", "room": "TBA", "type": "Lecture", "color": "#34D399" },
-          { "time": "10:30 - 11:30", "subject": "Circuit Theory", "room": "TBA", "type": "Lecture", "color": "#60A5FA" },
-          { "time": "11:30 - 12:30", "subject": "No Class", "room": "-", "type": "Break", "color": "#9CA3AF" },
-          { "time": "02:00 - 03:00", "subject": "Circuit Lab", "room": "TBA", "type": "Lab", "color": "#FB923C" },
-          { "time": "03:00 - 04:00", "subject": "Circuit Lab", "room": "TBA", "type": "Lab", "color": "#FB923C" }
+          { "time": "08:00 - 09:00", "subject": "Minor Subjects", "room": "TBA", "type": "Lecture", "color": "#9CA3AF" },
+          { "time": "09:00 - 10:00", "subject": "Basic Thermodynamics", "room": "TBA", "type": "Lecture", "color": "#F472B6" },
+          { "time": "10:30 - 11:30", "subject": "Theory of Machines", "room": "TBA", "type": "Lecture", "color": "#60A5FA" },
+          { "time": "11:30 - 12:30", "subject": "Mechanics of Materials", "room": "TBA", "type": "Lecture", "color": "#FB923C" },
+          { "time": "02:00 - 04:00", "subject": "Programming in Python Lab / Mechanics of Materials Lab / Machine Shop", "room": "TBA", "type": "Lab", "color": "#A78BFA" }
         ]
       },
       {
         "day": "Thursday",
         "classes": [
-          { "time": "08:00 - 09:00", "subject": "Electrical Machines I", "room": "TBA", "type": "Lecture", "color": "#F472B6" },
-          { "time": "09:00 - 10:00", "subject": "Circuit Theory", "room": "TBA", "type": "Lecture", "color": "#60A5FA" },
-          { "time": "10:30 - 11:30", "subject": "Electromagnetic Fields", "room": "TBA", "type": "Lecture", "color": "#34D399" },
-          { "time": "11:30 - 12:30", "subject": "No Class", "room": "-", "type": "Break", "color": "#9CA3AF" },
-          { "time": "02:00 - 03:00", "subject": "No Class", "room": "-", "type": "Break", "color": "#9CA3AF" },
-          { "time": "03:00 - 04:00", "subject": "No Class", "room": "-", "type": "Break", "color": "#9CA3AF" }
+          { "time": "08:00 - 09:00", "subject": "Minor Subjects", "room": "TBA", "type": "Lecture", "color": "#9CA3AF" },
+          { "time": "09:00 - 10:00", "subject": "Theory of Machines", "room": "TBA", "type": "Lecture", "color": "#60A5FA" },
+          { "time": "10:30 - 11:30", "subject": "Machine Tools and Metal Cutting", "room": "TBA", "type": "Lecture", "color": "#22D3EE" },
+          { "time": "11:30 - 12:30", "subject": "Mechanics of Materials", "room": "TBA", "type": "Lecture", "color": "#FB923C" },
+          { "time": "02:00 - 04:00", "subject": "Programming in Python Lab / Mechanics of Materials Lab / Machine Shop", "room": "TBA", "type": "Lab", "color": "#A78BFA" }
         ]
       },
       {
         "day": "Friday",
         "classes": [
-          { "time": "08:00 - 09:00", "subject": "Mathematics III", "room": "TBA", "type": "Lecture", "color": "#FBBF24" },
-          { "time": "09:00 - 10:00", "subject": "Electrical Machines I", "room": "TBA", "type": "Lecture", "color": "#F472B6" },
-          { "time": "10:30 - 11:30", "subject": "Circuit Theory", "room": "TBA", "type": "Lecture", "color": "#60A5FA" },
-          { "time": "11:30 - 12:30", "subject": "No Class", "room": "-", "type": "Break", "color": "#9CA3AF" },
-          { "time": "02:00 - 03:00", "subject": "No Class", "room": "-", "type": "Break", "color": "#9CA3AF" },
-          { "time": "03:00 - 04:00", "subject": "No Class", "room": "-", "type": "Break", "color": "#9CA3AF" }
+          { "time": "08:00 - 09:00", "subject": "Minor Subjects", "room": "TBA", "type": "Lecture", "color": "#9CA3AF" },
+          { "time": "09:00 - 10:00", "subject": "Mathematics III-A", "room": "TBA", "type": "Lecture", "color": "#FBBF24" },
+          { "time": "10:30 - 11:30", "subject": "Machine Tools and Metal Cutting", "room": "TBA", "type": "Lecture", "color": "#22D3EE" },
+          { "time": "11:30 - 12:30", "subject": "Mechanics of Materials", "room": "TBA", "type": "Lecture", "color": "#FB923C" },
+          { "time": "02:00 - 03:00", "subject": "Basic Thermodynamics", "room": "TBA", "type": "Lecture", "color": "#F472B6" },
+          { "time": "03:00 - 04:00", "subject": "Theory of Machines", "room": "TBA", "type": "Lecture", "color": "#60A5FA" }
         ]
       },
       {
         "day": "Saturday",
         "classes": [
-          { "time": "08:00 - 09:00", "subject": "No Class", "room": "-", "type": "Break", "color": "#9CA3AF" },
-          { "time": "09:00 - 10:00", "subject": "No Class", "room": "-", "type": "Break", "color": "#9CA3AF" },
-          { "time": "10:30 - 11:30", "subject": "No Class", "room": "-", "type": "Break", "color": "#9CA3AF" },
-          { "time": "11:30 - 12:30", "subject": "No Class", "room": "-", "type": "Break", "color": "#9CA3AF" },
+          { "time": "08:00 - 09:00", "subject": "Basic Thermodynamics", "room": "TBA", "type": "Lecture", "color": "#F472B6" },
+          { "time": "09:00 - 10:00", "subject": "Machine Tools and Metal Cutting", "room": "TBA", "type": "Lecture", "color": "#22D3EE" },
+          { "time": "10:30 - 11:30", "subject": "Theory of Machines", "room": "TBA", "type": "Lecture", "color": "#60A5FA" },
+          { "time": "11:30 - 12:30", "subject": "Mathematics III-A", "room": "TBA", "type": "Lecture", "color": "#FBBF24" },
           { "time": "02:00 - 03:00", "subject": "No Class", "room": "-", "type": "Break", "color": "#9CA3AF" },
           { "time": "03:00 - 04:00", "subject": "No Class", "room": "-", "type": "Break", "color": "#9CA3AF" }
         ]
