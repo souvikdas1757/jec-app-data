@@ -1,3 +1,259 @@
+{
+  "holidays": [
+    {
+      "id": "1",
+      "name": "New Year's Day",
+      "date": "01 Jan 2026",
+      "day": "Thursday",
+      "type": "Restricted Holiday"
+    },
+    {
+      "id": "2",
+      "name": "Uruka of Magh Bihu",
+      "date": "13 Jan 2026",
+      "day": "Tuesday",
+      "type": "Restricted Holiday"
+    },
+    {
+      "id": "3",
+      "name": "Magh Bihu & Tusu Puja",
+      "date": "14 Jan 2026",
+      "day": "Wednesday",
+      "type": "Public Holiday"
+    },
+    {
+      "id": "4",
+      "name": "Magh Bihu",
+      "date": "15 Jan 2026",
+      "day": "Thursday",
+      "type": "Public Holiday"
+    },
+    {
+      "id": "5",
+      "name": "Netaji's Birthday",
+      "date": "23 Jan 2026",
+      "day": "Friday",
+      "type": "Public Holiday"
+    },
+    {
+      "id": "6",
+      "name": "Republic Day",
+      "date": "26 Jan 2026",
+      "day": "Monday",
+      "type": "National Holiday"
+    },
+    {
+      "id": "7",
+      "name": "Gwthar Bathou San",
+      "date": "27 Jan 2026",
+      "day": "Tuesday",
+      "type": "Public Holiday"
+    },
+    {
+      "id": "8",
+      "name": "Me-Dam-Me-Phi",
+      "date": "31 Jan 2026",
+      "day": "Saturday",
+      "type": "Public Holiday"
+    },
+    {
+      "id": "9",
+      "name": "Bir Chilaray Divas",
+      "date": "01 Feb 2026",
+      "day": "Sunday",
+      "type": "Public Holiday"
+    },
+    {
+      "id": "10",
+      "name": "Shab-E-Barat",
+      "date": "04 Feb 2026",
+      "day": "Wednesday",
+      "type": "Restricted Holiday"
+    },
+    {
+      "id": "11",
+      "name": "Sivaratri",
+      "date": "15 Feb 2026",
+      "day": "Sunday",
+      "type": "Restricted Holiday"
+    },
+    {
+      "id": "12",
+      "name": "Ali Aye Ligang",
+      "date": "18 Feb 2026",
+      "day": "Wednesday",
+      "type": "Restricted Holiday"
+    },
+    {
+      "id": "13",
+      "name": "Dol Jatra",
+      "date": "03 Mar 2026",
+      "day": "Tuesday",
+      "type": "Public Holiday"
+    },
+    {
+      "id": "14",
+      "name": "Lailatur Qadar",
+      "date": "17 Mar 2026",
+      "day": "Tuesday",
+      "type": "Restricted Holiday"
+    },
+    {
+      "id": "15",
+      "name": "Id-Ul-Fitr",
+      "date": "21 Mar 2026",
+      "day": "Saturday",
+      "type": "Public Holiday"
+    },
+    {
+      "id": "16",
+      "name": "Mahabir Jayanti",
+      "date": "31 Mar 2026",
+      "day": "Tuesday",
+      "type": "Restricted Holiday"
+    },
+    {
+      "id": "17",
+      "name": "Good Friday",
+      "date": "03 Apr 2026",
+      "day": "Friday",
+      "type": "Public Holiday"
+    },
+    {
+      "id": "18",
+      "name": "Bohag Bihu",
+      "date": "14 Apr 2026",
+      "day": "Tuesday",
+      "type": "Public Holiday"
+    },
+    {
+      "id": "19",
+      "name": "Bohag Bihu",
+      "date": "15 Apr 2026",
+      "day": "Wednesday",
+      "type": "Public Holiday"
+    },
+    {
+      "id": "20",
+      "name": "Bohag Bihu",
+      "date": "16 Apr 2026",
+      "day": "Thursday",
+      "type": "Public Holiday"
+    },
+    {
+      "id": "21",
+      "name": "Tithi of Damodar Deva",
+      "date": "18 Apr 2026",
+      "day": "Saturday",
+      "type": "Public Holiday"
+    },
+    {
+      "id": "22",
+      "name": "Sati Sadhini Divas",
+      "date": "21 Apr 2026",
+      "day": "Tuesday",
+      "type": "Public Holiday"
+    },
+    {
+      "id": "23",
+      "name": "May Day & Buddha Purnima",
+      "date": "01 May 2026",
+      "day": "Friday",
+      "type": "Public Holiday"
+    },
+    {
+      "id": "24",
+      "name": "Id-ul-Zuha",
+      "date": "27 May 2026",
+      "day": "Wednesday",
+      "type": "Public Holiday"
+    },
+    {
+      "id": "25",
+      "name": "Janmotsav of Sri Sri Madhabdeva",
+      "date": "01 Jun 2026",
+      "day": "Monday",
+      "type": "Public Holiday"
+    },
+    {
+      "id": "26",
+      "name": "Death Anniversary of Bishnu Prasad Rabha",
+      "date": "20 Jun 2026",
+      "day": "Saturday",
+      "type": "Restricted Holiday"
+    },
+    {
+      "id": "27",
+      "name": "Matri Pitri Vandana",
+      "date": "09 Jul 2026",
+      "day": "Thursday",
+      "type": "Special Casual Leave"
+    },
+    {
+      "id": "28",
+      "name": "Matri Pitri Vandana",
+      "date": "10 Jul 2026",
+      "day": "Friday",
+      "type": "Special Casual Leave"
+    },
+    {
+      "id": "29",
+      "name": "Matri Pitri Vandana",
+      "date": "23 Jul 2026",
+      "day": "Thursday",
+      "type": "Special Casual Leave"
+    },
+    {
+      "id": "30",
+      "name": "Matri Pitri Vandana",
+      "date": "24 Jul 2026",
+      "day": "Friday",
+      "type": "Special Casual Leave"
+    },
+    {
+      "id": "31",
+      "name": "Independence Day",
+      "date": "15 Aug 2026",
+      "day": "Saturday",
+      "type": "National Holiday"
+    },
+    {
+      "id": "32",
+      "name": "Fateha-e-Dwazdaham",
+      "date": "26 Aug 2026",
+      "day": "Wednesday",
+      "type": "Restricted Holiday"
+    },
+    {
+      "id": "33",
+      "name": "Tirubhav Tithi of Sri Sri Madhabdeva",
+      "date": "01 Sep 2026",
+      "day": "Tuesday",
+      "type": "Public Holiday"
+    },
+    {
+      "id": "34",
+      "name": "Janmashtami",
+      "date": "04 Sep 2026",
+      "day": "Friday",
+      "type": "Public Holiday"
+    },
+    {
+      "id": "35",
+      "name": "Tirubhav Tithi of Srimanta Sankardeva",
+      "date": "12 Sep 2026",
+      "day": "Saturday",
+      "type": "Public Holiday"
+    },
+    {
+      "id": "36",
+      "name": "Naukhai Festival",
+      "date": "15 Sep 2026",
+      "day": "Tuesday",
+      "type": "Restricted Holiday"
+    },
+    {
+      "id": "37",
       "name": "Janmotsav of Srimanta Sankardeva",
       "date": "21 Sep 2026",
       "day": "Monday",
