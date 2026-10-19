@@ -1,0 +1,20 @@
+{
+  "announcements": [
+    {
+      "id": "1",
+      "title": "Mid-Semester Exams Schedule Released",
+      "date": "20 Oct 2026",
+      "category": "Exam",
+      "content": "The schedule for the upcoming Mid-Semester examinations has been published. Please check the notice board outside the HOD's office or download the PDF from the college website.",
+      "isImportant": true
+    },
+    {
+      "id": "2",
+      "title": "Tech Fest 2026 Registrations Open",
+      "date": "18 Oct 2026",
+      "category": "Event",
+      "content": "Registrations for the annual Tech Fest are now open! Form teams and register before 25th October. Exciting prizes await the winners.",
+      "isImportant": false
+    }
+  ]
+}
