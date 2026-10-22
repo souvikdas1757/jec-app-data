@@ -11,43 +11,31 @@
           "code": "CO1",
           "description": "Analyze the time and space complexity of simple algorithms and code segments using asymptotic notations.",
           "level": "Analyzing - Level 4",
-          "modules": [
-            1
-          ]
+          "modules": [1]
         },
         {
           "code": "CO2",
           "description": "Choose among the fundamental data structures and apply them to solve computational problems.",
           "level": "Applying - Level 3",
-          "modules": [
-            2
-          ]
+          "modules": [2]
         },
         {
           "code": "CO3",
           "description": "Choose the efficient searching and sorting algorithms and apply them for problem solving.",
           "level": "Applying - Level 3",
-          "modules": [
-            3
-          ]
+          "modules": [3]
         },
         {
           "code": "CO4",
           "description": "Apply tree and graph for problem solving.",
           "level": "Applying - Level 3",
-          "modules": [
-            4,
-            5
-          ]
+          "modules": [4, 5]
         },
         {
           "code": "CO5",
           "description": "Evaluate the performance of advanced data structures such as heaps, priority queues, and hash tables for problem solving, enhancing data storage and retrieval efficiency.",
           "level": "Evaluating - Level 5",
-          "modules": [
-            6,
-            7
-          ]
+          "modules": [6, 7]
         }
       ],
       "modules": [
@@ -153,43 +141,31 @@
           "code": "CO1",
           "description": "Demonstrate proficiency in using programming environments, debugging tools, and source code management systems for efficient software development and maintenance.",
           "level": "Understanding - Level 2",
-          "modules": [
-            1
-          ]
+          "modules": [1]
         },
         {
           "code": "CO2",
           "description": "Apply object-oriented programming (OOP) principles to design maintainable and well-structured software solutions.",
           "level": "Applying - Level 3",
-          "modules": [
-            2
-          ]
+          "modules": [2]
         },
         {
           "code": "CO3",
           "description": "Implement advanced OOP features in C++ and Java to develop scalable and efficient applications.",
           "level": "Applying - Level 3",
-          "modules": [
-            3,
-            4,
-            5
-          ]
+          "modules": [3, 4, 5]
         },
         {
           "code": "CO4",
           "description": "Develop robust software using unit testing frameworks and defensive programming techniques to ensure reliability and error handling.",
           "level": "Creating - Level 6",
-          "modules": [
-            6
-          ]
+          "modules": [6]
         },
         {
           "code": "CO5",
           "description": "Create software architectures using software modeling techniques and design patterns such as class diagrams and sequence diagrams.",
           "level": "Creating - Level 6",
-          "modules": [
-            7
-          ]
+          "modules": [7]
         }
       ],
       "modules": [
@@ -280,42 +256,31 @@
           "code": "CO1",
           "description": "Select the most appropriate software process models for a given project scenario.",
           "level": "Applying - Level 3",
-          "modules": [
-            1
-          ]
+          "modules": [1]
         },
         {
           "code": "CO2",
           "description": "Apply project estimation and risk management techniques to plan, schedule, and manage software projects efficiently.",
           "level": "Applying - Level 3",
-          "modules": [
-            2
-          ]
+          "modules": [2]
         },
         {
           "code": "CO3",
           "description": "Develop a comprehensive Software Requirements Specification (SRS) document based on requirement engineering principles, design efficient software architectures using appropriate design methodologies and propose coding styles.",
           "level": "Creating - Level 6",
-          "modules": [
-            3,
-            4
-          ]
+          "modules": [3, 4]
         },
         {
           "code": "CO4",
           "description": "Evaluate software quality through testing techniques and SQA practices to ensure reliability and maintainability of software systems.",
           "level": "Evaluating - Level 5",
-          "modules": [
-            5
-          ]
+          "modules": [5]
         },
         {
           "code": "CO5",
           "description": "Apply modern Computer Aided Software Engineering (CASE) tools in the software life cycle to improve process automation and software quality.",
           "level": "Applying - Level 3",
-          "modules": [
-            6
-          ]
+          "modules": [6]
         }
       ],
       "modules": [
@@ -428,41 +393,31 @@
           "code": "CO1",
           "description": "Demonstrate familiarity with the fundamentals of digital systems to analyze and implement basic digital circuits.",
           "level": "Understanding - Level 2",
-          "modules": [
-            1
-          ]
+          "modules": [1]
         },
         {
           "code": "CO2",
           "description": "Analyze and construct combinational digital circuits.",
           "level": "Analyzing - Level 4",
-          "modules": [
-            2
-          ]
+          "modules": [2]
         },
         {
           "code": "CO3",
           "description": "Analyze and construct sequential digital circuits.",
           "level": "Analyzing - Level 4",
-          "modules": [
-            3
-          ]
+          "modules": [3]
         },
         {
           "code": "CO4",
           "description": "Apply A/D and D/A conversion techniques in digital systems.",
           "level": "Applying - Level 3",
-          "modules": [
-            4
-          ]
+          "modules": [4]
         },
         {
           "code": "CO5",
           "description": "Design and differentiate memory architectures and programmable logic devices for efficient digital system design.",
           "level": "Creating - Level 6",
-          "modules": [
-            5
-          ]
+          "modules": [5]
         }
       ],
       "modules": [
@@ -1043,109 +998,974 @@
       "note": "The uploaded syllabus lists the course structure and assessment but does not provide detailed modules or experiments for this course."
     }
   ],
-  "semesterInfo": {
-    "branch": "Computer Science Engineering",
-    "branchCode": "CSE",
-    "semester": 3,
-    "university": "Assam Science and Technology University",
-    "academicSession": "2024-25 onwards",
-    "totalContactHoursPerWeek": 30,
-    "totalCredits": 23,
-    "courseStructure": {
-      "theory": [
+  "ME_3": [
+    {
+      "subject": "Mathematics III-A",
+      "code": "MA241305A",
+      "type": "Theory",
+      "hoursPerWeek": "3-0-0",
+      "credits": 3,
+      "courseOutcomes": [
         {
-          "code": "CS241301",
-          "title": "Data Structure and Algorithms",
-          "hoursPerWeek": "3-0-0",
-          "credits": 3,
-          "CE": 30,
-          "ESE": 70
+          "code": "CO1",
+          "description": "Solve first- and second-order PDEs using analytical methods and classify second-order equations."
         },
         {
-          "code": "CS241302",
-          "title": "Object Oriented Programming",
-          "hoursPerWeek": "3-0-0",
-          "credits": 3,
-          "CE": 30,
-          "ESE": 70
+          "code": "CO2",
+          "description": "Apply separation of variables to solve diffusion, wave, and Laplace equations with given conditions."
         },
         {
-          "code": "CS241303",
-          "title": "Software Engineering",
-          "hoursPerWeek": "3-0-0",
-          "credits": 3,
-          "CE": 30,
-          "ESE": 70
+          "code": "CO3",
+          "description": "Understand and apply the concept of numerical methods in solving real life problems."
         },
         {
-          "code": "CS241304",
-          "title": "Digital Systems",
-          "hoursPerWeek": "3-1-0",
-          "credits": 4,
-          "CE": 30,
-          "ESE": 70
+          "code": "CO4",
+          "description": "Apply probability theory, including discrete and continuous distributions, expectation, moments, and Bayes' rule, to model uncertainty and analyze random phenomena in engineering contexts."
         },
         {
-          "code": "MA241305D",
-          "title": "Mathematics III-D",
-          "hoursPerWeek": "3-0-0",
-          "credits": 3,
-          "CE": 30,
-          "ESE": 70
+          "code": "CO5",
+          "description": "Apply Laplace and inverse Laplace transforms and Fourier transforms, including their properties and convolution theorem, to solve ordinary differential equations arising in engineering applications."
         },
         {
-          "code": "HS241306",
-          "title": "Indian Knowledge Systems",
-          "hoursPerWeek": "2-0-0",
-          "credits": 2,
-          "CE": 0,
-          "ESE": 50
-        },
-        {
-          "code": "AC241307",
-          "title": "Language other than MIL",
-          "hoursPerWeek": "1-1-0",
-          "credits": 0,
-          "CE": null,
-          "ESE": 50,
-          "assessment": "PP/NP",
-          "mandatoryAuditCourse": true
+          "code": "CO6",
+          "description": "Apply statistical techniques—including data analysis, curve fitting, correlation, and hypothesis testing—to interpret and make decisions from experimental and observational data."
         }
       ],
-      "practical": [
+      "modules": [
         {
-          "code": "CS241311",
-          "title": "Data Structure and Algorithms Lab",
-          "hoursPerWeek": "0-0-2",
-          "credits": 1,
-          "CE": 15,
-          "ESE": 35
+          "title": "Module 1: Partial Differential Equations",
+          "lectures": 10,
+          "topics": [
+            "Definition of Partial Differential Equations",
+            "First order partial differential equations, solutions of first order linear PDEs",
+            "Solution to homogeneous and non-homogeneous linear partial differential equations of second order by complementary function and particular integral method",
+            "Second-order linear equations and their classification",
+            "Initial and boundary conditions",
+            "Separation of variables method to simple problems in Cartesian coordinates",
+            "One dimensional diffusion equation, wave equation, Laplace equation and their solution by separation of variables method"
+          ]
         },
         {
-          "code": "CS241312",
-          "title": "Object Oriented Programming Lab",
-          "hoursPerWeek": "0-0-2",
-          "credits": 1,
-          "CE": 15,
-          "ESE": 35
+          "title": "Module 2: Numerical Methods",
+          "lectures": 10,
+          "topics": [
+            "Gauss-Seidel iteration method to solve a system of equations",
+            "Numerical solution of algebraic and transcendental equations by Regula-Falsi method and Newton-Raphson's method",
+            "Lagrange interpolation",
+            "Forward and backward differences",
+            "Newton's forward and backward interpolation formulae",
+            "Numerical differentiation with forward and backward differences",
+            "Numerical Integration with Trapezoidal rule, Simpson's 1/3 rule and Simpson's 3/8 rule",
+            "Taylor series method, Euler's method, 4th order Runge-Kutta method for solving first order ordinary differential equations"
+          ]
         },
         {
-          "code": "CS241318",
-          "title": "Python Programming Lab",
-          "hoursPerWeek": "0-0-2",
-          "credits": 1,
-          "CE": 15,
-          "ESE": 35
+          "title": "Module 3: Probability",
+          "lectures": 10,
+          "topics": [
+            "Probability spaces, conditional probability, independence",
+            "Discrete random variables, Independent random variables",
+            "The multinomial distribution",
+            "Poisson approximation to the binomial distribution",
+            "Infinite sequences of Bernoulli trials",
+            "Expectation, Moments, Variance, Chebyshev's Inequality",
+            "Continuous random variables, distribution functions: normal, exponential and gamma densities",
+            "Bivariate distributions, Bayes' rule"
+          ]
         },
         {
-          "code": "SI241321",
-          "title": "Social Internship",
-          "hoursPerWeek": "0-0-4",
-          "credits": 2,
-          "CE": null,
-          "ESE": 50
+          "title": "Module 4 (a): Laplace Transform and Fourier Transform",
+          "lectures": 10,
+          "topics": [
+            "Laplace transform of elementary functions",
+            "Properties of Laplace transform",
+            "Inverse Laplace transform (without proof of formulae)",
+            "Convolution theorem (without proof of the theorem)",
+            "Solution of ordinary differential equations with the help of Laplace transform",
+            "Fourier Transform: Solution of partial differential equation by Fourier Transform"
+          ]
+        },
+        {
+          "title": "Module 4 (b): Statistics",
+          "lectures": 10,
+          "topics": [
+            "Basic Statistics",
+            "Measures of Central tendency: Moments, skewness and Kurtosis",
+            "Correlation and regression – Rank correlation",
+            "Curve fitting by the method of least squares – fitting of straight lines, second degree parabolas and more general curves",
+            "Test of significance: Large sample test for single proportion, difference of proportions, Tests for single mean, difference of means, and difference of standard deviations",
+            "Test for ratio of variances - Chi-square test for goodness of fit and independence of attributes"
+          ]
         }
+      ],
+      "remarks": [
+        "Module 1, 2, 3, 4a: for Chemical Engineering",
+        "Module 1, 2, 3, 4b: for Civil Engineering, Mechanical Engineering, Industrial and Production Engineering"
+      ],
+      "textbooks": [
+        "Engineering Mathematics: Reena Garg",
+        "Advanced Engineering Mathematics: Reena Garg",
+        "Advanced Engineering Mathematics: Erwin Kreyszig",
+        "A text book of engineering Mathematics: N. P. Bali & M. Goel",
+        "Introduction to Probability Theory: P. G. Hoel, S. C. Port and C. J. Stone",
+        "A First Course in Probability: S. Ross"
       ]
+    },
+    {
+      "subject": "Basic Thermodynamics",
+      "code": "ME241301",
+      "type": "Theory",
+      "hoursPerWeek": "3-0-0",
+      "credits": 3,
+      "courseOutcomes": [
+        {
+          "code": "CO1",
+          "description": "Apply the first law of thermodynamics to evaluate energy conversion, heat transfer, and work interactions in both closed and open systems, assessing their performance and efficiency in real-world applications."
+        },
+        {
+          "code": "CO2",
+          "description": "Estimate COP of a refrigerator and heat pump, entropy transfer, entropy of the system and universe, and entropy generation in thermodynamic processes and systems, applying the second law of thermodynamics."
+        },
+        {
+          "code": "CO3",
+          "description": "Estimate specific heats, internal energy, enthalpy, work and heat transfer, and the change in entropy for thermodynamic processes."
+        },
+        {
+          "code": "CO4",
+          "description": "Employ steam tables and Mollier diagrams for estimating various steam properties for given values of pressure and temperature for analyzing steam handling devices and vapor power cycle."
+        },
+        {
+          "code": "CO5",
+          "description": "Analyze thermal engineering devices by evaluating second law efficiency, identifying irreversibilities, and quantifying potential losses through the formulation of exergy balance equations."
+        }
+      ],
+      "modules": [
+        {
+          "title": "Module 1: Introduction: Concepts of Thermodynamics",
+          "lectures": 4,
+          "topics": [
+            "Macroscopic and Microscopic concepts",
+            "System and its classification",
+            "Thermodynamic state, properties, process and cycles",
+            "Thermodynamic equilibrium",
+            "Energy interactions (Work transfer and its different modes, Heat transfer) illustrative problems"
+          ]
+        },
+        {
+          "title": "Module 2: First law of Thermodynamics",
+          "lectures": 7,
+          "topics": [
+            "First law applied to non-flow as well as flow processes",
+            "Concepts of internal energy, Enthalpy, Specific heats, PMMI",
+            "Energy equations for flow systems",
+            "Application of energy equations to different engineering components such as boiler, turbine, heat exchangers, pumps, nozzles, etc."
+          ]
+        },
+        {
+          "title": "Module 3: Second law of Thermodynamics",
+          "lectures": 5,
+          "topics": [
+            "Concept of heat Engine",
+            "Kelvin Planck and Clausius statements",
+            "Refrigerator and heat pump",
+            "Equivalence of two statements",
+            "Reversibility and irreversibility",
+            "Carnot's Carnot cycle and reversed heat engine",
+            "Carnot's and corollary of Carnot's theorem",
+            "Thermodynamic scales of temperature"
+          ]
+        },
+        {
+          "title": "Module 4: Entropy",
+          "lectures": 6,
+          "topics": [
+            "Clausius theorem and inequality",
+            "Entropy change of irreversible process",
+            "Entropy Principle",
+            "Application of Entropy principles",
+            "Entropy transfer mechanism",
+            "Entropy generation in a closed and open systems",
+            "Irreversibility",
+            "Third law of Thermodynamics"
+          ]
+        },
+        {
+          "title": "Module 5: Properties of Substances",
+          "lectures": 7,
+          "topics": [
+            "Gases - Equation of state of an ideal gas",
+            "Specific heats, Internal energy, Enthalpy and Entropy change of ideal gas",
+            "Analysis of isochoric, isobaric, isothermal, isentropic, isenthalpic processes",
+            "Representation of the above processes on P-v, T-s planes",
+            "Determination of work, heat, entropy and enthalpy changes during the above processes",
+            "Equation of state of Real Gases",
+            "Principle of corresponding state",
+            "Compressibility Factor",
+            "Maxwell relation, specific heat relations, relations for changes in internal energy, enthalpy and entropy",
+            "Clapeyron equation"
+          ]
+        },
+        {
+          "title": "Module 6: Steam and Vapour cycle",
+          "lectures": 6,
+          "topics": [
+            "Phase transformation",
+            "Definition of sensible heat, Latent heat, Saturation temperature",
+            "Generation of steam, quality of steam",
+            "Concept of enthalpy of different steam",
+            "P-v and T-s diagrams",
+            "Use of steam tables and Mollier chart",
+            "Vapour Cycle (Rankine cycle), its application, methods used to improve Rankine cycle efficiency"
+          ]
+        },
+        {
+          "title": "Module 7: Exergy Analysis",
+          "lectures": 7,
+          "topics": [
+            "Concept of exergy",
+            "Irreversibility, exergy balance",
+            "Exergy transfer accompanying heat",
+            "Exergy transfer accompanying work",
+            "Flow exergy",
+            "Exergy balance for control volume",
+            "Exergetic efficiency",
+            "Exergetic efficiencies of common components: turbines, pumps, nozzles etc."
+          ]
+        }
+      ],
+      "textbooks": [
+        "Engineering Thermodynamics: P.K. Nag, McGraw Hill Publications, 6th edition 2017",
+        "Thermodynamics – An Engineering Approach: Cengel and Boles, Tata McGraw Hill Publications, 8th edition 2017",
+        "Thermal Engineering: R. K. Rajput, Laxmi Publications Ltd. 6th edition 2016",
+        "A Course in Thermal Engineering: S. Domkundwar, C.P. Kothandaraman, Anand Domkundwar, Dhanpat Rai and Co. 2017",
+        "Refrigeration and Air Conditioning: C.P. Arora, Tata McGraw Hill, 3rd edition 2017",
+        "A Textbook of Refrigeration & Air condition: R.S.Khurmi, S. Chand, 2019",
+        "Refrigeration and Air Conditioning: W.F. Stoecker and J.F. Jones, McGraw Hill International Edition, 2nd edition"
+      ]
+    },
+    {
+      "subject": "Theory of Machines",
+      "code": "ME241302",
+      "type": "Theory",
+      "hoursPerWeek": "3-0-2",
+      "credits": 4,
+      "courseOutcomes": [
+        {
+          "code": "CO1",
+          "description": "Understand the principles of kinematic analysis and mobility in mechanisms to assess their motion characteristics."
+        },
+        {
+          "code": "CO2",
+          "description": "Analyze the role of friction in mechanical systems like clutch, brakes, belt and chain drive."
+        },
+        {
+          "code": "CO3",
+          "description": "Apply gearing principles to optimize motion control, power transmission efficiency, and system performance."
+        },
+        {
+          "code": "CO4",
+          "description": "Analyze cam-follower mechanisms to generate precise motion profiles, ensuring smooth and controlled mechanical movement."
+        },
+        {
+          "code": "CO5",
+          "description": "Analyze energy variations in rotating systems using turning moment diagrams and assess the role of flywheels in regulating speed fluctuations and ensuring operational stability."
+        }
+      ],
+      "modules": [
+        {
+          "title": "Module 1: Fundamentals of Mechanism",
+          "lectures": 10,
+          "topics": [
+            "Definitions and types of kinematic joints, links, and pairs with illustration",
+            "Kinematic chain & mechanism",
+            "Different inversions of four bar chain, single slider and double slider crank chains & their applications",
+            "Test for 4-bar mechanism by Grashoff's law",
+            "DOF, Kutzbach mobility criterion for planar and spatial mechanism",
+            "Types and method for locating instantaneous center",
+            "Analysis of reciprocating engine and four bar chain by instantaneous center method",
+            "Kennedy theorem"
+          ]
+        },
+        {
+          "title": "Module 2: Friction & Friction Drives",
+          "lectures": 8,
+          "topics": [
+            "Types of friction",
+            "Uniform pressure and uniform wear",
+            "Friction clutches",
+            "Rolling friction",
+            "Flat belt, V belt and rope drives",
+            "Velocity ratio in belt drives",
+            "Law of belting",
+            "Ratio of friction tensions in belts",
+            "Power transmitted by belts and ropes",
+            "Maximum power transmission by belt",
+            "Chain drive",
+            "Braking mechanisms, block and shoe brake, band brake, internal expanding shoe brake",
+            "Absorption and transmission dynamometers"
+          ]
+        },
+        {
+          "title": "Module 3: Gear and Gear Trains",
+          "lectures": 8,
+          "topics": [
+            "Classifications",
+            "Definitions of terms used in gears",
+            "Law of gearing",
+            "Velocity of sliding",
+            "Forms of teeth",
+            "Length of path & arc of contacts",
+            "Interference",
+            "Minimum number of teeth required on pinion & wheel to avoid interference",
+            "Simple, compound, reverted, and epicyclic gear trains",
+            "Algebraic and tabular methods to find velocity ratios of gear trains",
+            "Sun and planet gear",
+            "Torques and tooth loads in epicyclic gear train",
+            "Compound epicyclic gear train with bevel gear"
+          ]
+        },
+        {
+          "title": "Module 4: Cam and Follower",
+          "lectures": 8,
+          "topics": [
+            "Definition and function of cam & followers",
+            "Cam terminologies and profile",
+            "Types of follower motions: uniform velocity motion, simple harmonic motion, uniform acceleration & retardation motion, cycloidal motion, any type of desired motion",
+            "Displacement, velocity, and acceleration diagrams",
+            "Cam profile construction with different followers having different motions and their applications",
+            "Cam with specified contours"
+          ]
+        },
+        {
+          "title": "Module 5: Flywheel and Turning Moment Diagram",
+          "lectures": 8,
+          "topics": [
+            "Turning moment diagrams for different types of engines",
+            "Fluctuations of energy and speed of crank shaft",
+            "Co-efficient of fluctuations of energy and speed",
+            "Flywheels, dimensions of flywheel",
+            "Operation of flywheel in punching press"
+          ]
+        }
+      ],
+      "textbooks": [
+        "Theory of Machines: Dr. R.K. Bansal & Dr. J.S. Brar, Laxmi Publications(P) Ltd. 5th edition, 2016",
+        "Theory of Machines: Ratan S.S, McGraw Hill Education, 4th edition, 2017",
+        "Theory of Machines and Mechanisms: Prof. P. L. Ballaney, Khanna Publishers, 25th edition, 2014",
+        "Theory of Machines: Sadhu Singh, Pearson Education India, 3rd edition, 2011"
+      ]
+    },
+    {
+      "subject": "Machine Tools and Metal Cutting",
+      "code": "ME241303",
+      "type": "Theory",
+      "hoursPerWeek": "3-0-0",
+      "credits": 3,
+      "courseOutcomes": [
+        {
+          "code": "CO1",
+          "description": "Analyze the working principles, classifications, and machining parameters of conventional and semi-automatic machines (lathe, shaper, planer, slotting, drilling, milling, and broaching) to determine their suitability for various manufacturing applications."
+        },
+        {
+          "code": "CO2",
+          "description": "Evaluate the mechanics of metal cutting, including chip formation, cutting forces, tool wear, and machinability, to enhance tool life and improve machining efficiency."
+        },
+        {
+          "code": "CO3",
+          "description": "Design work-holding and tool-holding devices such as jigs, fixtures, and indexing mechanisms, and develop CNC programs for precision machining."
+        },
+        {
+          "code": "CO4",
+          "description": "Compare various gear and thread manufacturing methods along with advanced machining and surface finishing techniques to achieve the desired dimensional accuracy and surface quality."
+        },
+        {
+          "code": "CO5",
+          "description": "Develop an optimal machining strategy by selecting appropriate cutting tools, cutting fluids, and machining parameters while considering economic and technical feasibility in manufacturing operations."
+        }
+      ],
+      "modules": [
+        {
+          "title": "Module 1: Lathe and Semi-Automatics",
+          "lectures": 6,
+          "topics": [
+            "(a) Lathe: Functions, Classification and Specification, Different parts, Drive mechanisms for speed, feed, depth of cut, Taper turning, Machining time, Lathe Accessories and Attachments",
+            "(b) Semi-Automatics: Capstan and Turret lathes – Different parts – Tools – Work and Tool holding devices, Indexing and Bar Feeding Mechanisms, Tool layout and Tool Schedule chart"
+          ]
+        },
+        {
+          "title": "Module 2: Shaper, Planer, Slotting & Broaching Operations",
+          "lectures": 6,
+          "topics": [
+            "Shaper - Function, Classification and Specification – Quick return and feed mechanisms – Shaper operations – Cutting speed and Machining time calculations",
+            "Planer - Function, Specification Table drives and feed mechanism",
+            "Broaching: Purpose, broaching tool and machine",
+            "Slotting machine: Purpose, slotting tool and machine"
+          ]
+        },
+        {
+          "title": "Module 3: Drilling, Manufacturing of threads and gears",
+          "lectures": 6,
+          "topics": [
+            "Drilling machines – Classification – specifications – Parts drilling machine – spindle drive mechanisms – tool and work holding devices for operation",
+            "Types of drills and tool in hand nomenclature",
+            "Drill size and designation of drills",
+            "Deep hole drilling",
+            "Introduction to reaming and tapping",
+            "Threads manufacturing – Different methods – Casting, Thread Chasing, Thread Rolling, Die and Tapping, Milling and grinding",
+            "Gear manufacturing - Different Methods – Casting, Forming and Metal removal",
+            "Gear Cutting and Gear Generation Processes",
+            "Gear Finishing Operations"
+          ]
+        },
+        {
+          "title": "Module 4: Milling",
+          "lectures": 5,
+          "topics": [
+            "Introduction – Classification – Specifications - Principal parts of a milling machine",
+            "Elements of a milling cutter",
+            "Milling processes – Up-milling – Down milling – Face milling – End milling",
+            "Cutting Speed, Feed and Depth of Cut – Machining Time",
+            "Indexing and Dividing Head"
+          ]
+        },
+        {
+          "title": "Module 5: Grinding and Surface Finishing",
+          "lectures": 5,
+          "topics": [
+            "Grinding: Introduction – Kinds of grinding – Grinding Processes – Centreless Grinders – Surface Grinders – Tool and Cutter Grinder – Specifications",
+            "Grinding Wheel – Composition and specification",
+            "Selection of Grinding Wheel",
+            "Dressing, and Truing of grinding Wheel",
+            "Surface Finishing: Introduction – Classification – Principle and Operations of Lapping, Honing, Super finishing, Polishing, Buffing, Tumbling and Burnishing"
+          ]
+        },
+        {
+          "title": "Module 6: Cutting Tool Specification and Mechanics",
+          "lectures": 8,
+          "topics": [
+            "Single point cutting tools – Reference planes – System of axes",
+            "Tool specifications – ASA & ORS systems",
+            "Mechanics of metal cutting: Mechanism of chip formation – Type of chips",
+            "Orthogonal and oblique machining",
+            "Chip thickness ratio and velocity relationship",
+            "Stress, Strain and Strain rate",
+            "Merchant Theory of metal cutting",
+            "Measurement of cutting forces",
+            "Cutting variables and factors affecting them",
+            "Selection of tool angles",
+            "Tool wears and Tool life – Basic causes – Progressive tool wears – Tool life – Variables affecting tool life – Specifications and criteria for tool life",
+            "Machinability – Factors – Criterion",
+            "Tool materials and Cutting Fluids",
+            "Economics of machining"
+          ]
+        },
+        {
+          "title": "Module 7: Tooling",
+          "lectures": 6,
+          "topics": [
+            "Jigs and Fixtures – Elements of Jigs and Fixtures – Locating Methods and Devices",
+            "Clamping – Principles for Clamping, Clamping Devices",
+            "Indexing",
+            "Basic concepts of CAD/CAM and CAPP",
+            "Introduction to NC/CNC machines and CNC programming"
+          ]
+        }
+      ],
+      "textbooks": [
+        "Manufacturing Science: A. Ghosh and A. K. Mallik, East West Press, 2nd edition, 2010",
+        "Introduction to Machining Science: G. K. Lal, New Age International Pvt Ltd., 3rd edition 2007",
+        "Fundamentals of Metal Machining and Machine Tools: W. A. Knight and G. Boothroyd, CRC Press, 3rd edition 2005",
+        "Metal Cutting Principles: M. C. Shaw, Oxford University Press, Second Edition, 2012",
+        "Nonconventional Machining: P. K. Mishra, Narosa Publishing House, 1st edition 1997",
+        "Fundamentals of Modern Manufacturing, Materials: M. P. Groover, Wiley India, 5th edition"
+      ]
+    },
+    {
+      "subject": "Mechanics of Materials",
+      "code": "ME241304",
+      "type": "Theory",
+      "hoursPerWeek": "3-0-0",
+      "credits": 3,
+      "courseOutcomes": [
+        {
+          "code": "CO1",
+          "description": "Compute principal stresses and strains and maximum shear stress using analytical and graphical methods."
+        },
+        {
+          "code": "CO2",
+          "description": "Solve complex problems involving bending, torsion in machine and structural elements and pressure in thin pressure vessels."
+        },
+        {
+          "code": "CO3",
+          "description": "Apply concepts related to strain energy, shear strain energy for various loading conditions."
+        },
+        {
+          "code": "CO4",
+          "description": "Analyze the shear force and bending moment for different beams with different loading."
+        },
+        {
+          "code": "CO5",
+          "description": "Solve problems related to the deflection of beams and the buckling of columns."
+        }
+      ],
+      "modules": [
+        {
+          "title": "Module 1: Stresses and Strains",
+          "lectures": 12,
+          "topics": [
+            "Basic definitions and relationship",
+            "Elastic constants, Poisson's ratio",
+            "Thermal stresses",
+            "Compound stresses and strains",
+            "State of stress at a point",
+            "General stress situation in 2D",
+            "Principal stresses and planes, maximum shear stress",
+            "Mohr's circle",
+            "Strain gauges and strain rosettes",
+            "Three-dimensional stress analysis",
+            "General stress systems",
+            "Transformation of stresses"
+          ]
+        },
+        {
+          "title": "Module 2: Shear Force and Bending Moment in Beams",
+          "lectures": 6,
+          "topics": [
+            "Relationship between shear force and bending moment",
+            "Calculations for various types of beams and loads",
+            "Point of contraflexure",
+            "Point where bending moment changes sign"
+          ]
+        },
+        {
+          "title": "Module 3: Combined stresses",
+          "lectures": 12,
+          "topics": [
+            "Bending of beams: governing equations for bending stresses",
+            "Shear stresses in beams, calculations of shear stresses",
+            "Concept of shear center in beams",
+            "Torsion of circular shafts: basic equation, torsional formula, torque and power relationships, shear stress and angle of twist",
+            "Stresses due to combined bending and torsion of circular shafts",
+            "Equivalent bending moment and equivalent twisting moment",
+            "Thin-walled pressure vessels: stresses in thin cylindrical and spherical vessels, hoop and longitudinal stresses"
+          ]
+        },
+        {
+          "title": "Module 4: Strain Energy",
+          "lectures": 5,
+          "topics": [
+            "Strain energy",
+            "Shear strain energy",
+            "Types of loading",
+            "Energy calculations under different loading conditions"
+          ]
+        },
+        {
+          "title": "Module 5: Slope and Deflection",
+          "lectures": 5,
+          "topics": [
+            "Beam differential equation",
+            "Slope and deflection by different methods: double integration, Macaulay's, strain energy, Castigliano's first theorem"
+          ]
+        },
+        {
+          "title": "Module 6: Euler's Theory of Columns",
+          "lectures": 5,
+          "topics": [
+            "Critical load",
+            "Buckling load for columns",
+            "End conditions: pinned, fixed, and others",
+            "Euler's curve",
+            "Buckling behavior of columns"
+          ]
+        }
+      ],
+      "textbooks": [
+        "Mechanics of Materials: R. C. Hibbeler, Pearson, 10th edition 2016",
+        "A Textbook of Strength of Materials: R. K. Bansal, Laxmi Publication (P) Ltd., 6th edition 2018",
+        "Fundamentals of Strength of Materials: Debabrata Nag and Abhijit Chanda, Wiley India Pvt Ltd., 2nd edition 2010",
+        "Strength of Materials: S. Ramamrutham and R. Narayanan, Dhanpat Rai Publishing Company 20th edition 2020",
+        "Mechanics of Materials: E. P. Popov, Pearson Education India, 2nd edition 2015",
+        "Elements of Strength of Materials: S. P. Timoshenko, CBS Publishers and Distributors Pvt. LTD, 3rd edition 2021",
+        "Strength of Materials: R. Subramanian, Oxford University Press, 2nd edition 2010",
+        "Advanced Mechanics of Solids: L. Srinath, McGraw Hill Education, 3rd edition 201"
+      ]
+    },
+    {
+      "subject": "Indian Knowledge Systems",
+      "code": "HS241306",
+      "type": "Theory",
+      "hoursPerWeek": "2-0-0",
+      "credits": 2,
+      "courseObjectives": [
+        "To introduce students to the foundational concepts of Indian Knowledge Systems (IKS).",
+        "To explore the contributions of ancient and medieval India in science, technology, mathematics, and philosophy.",
+        "To develop an appreciation for traditional Indian knowledge and its relevance in modern contexts.",
+        "To encourage critical thinking about indigenous knowledge systems and their applications."
+      ],
+      "courseOutcomes": [
+        {
+          "code": "CO1",
+          "description": "Understand the key principles of Indian Knowledge Systems."
+        },
+        {
+          "code": "CO2",
+          "description": "Recognize India's contributions to science, mathematics, medicine, and engineering."
+        },
+        {
+          "code": "CO3",
+          "description": "Analyze the interdisciplinary nature of IKS and its connections with modern technology."
+        },
+        {
+          "code": "CO4",
+          "description": "Appreciate the philosophical and ethical dimensions of traditional Indian knowledge."
+        }
+      ],
+      "modules": [
+        {
+          "title": "Module 1: Introduction to Indian Knowledge System (IKS)",
+          "lectures": 4,
+          "topics": [
+            "Definition, scope, and significance of IKS",
+            "Sources of Indian knowledge: Vedas, Upanishads, Puranas, Smritis, and other texts",
+            "Classification of knowledge in Indian tradition (Vidyas and Kalas)"
+          ]
+        },
+        {
+          "title": "Module 2: Science & Technology in Ancient India",
+          "lectures": 12,
+          "topics": [
+            "Contributions to mathematics (Zero, Decimal System, Vedic Mathematics, Aryabhata, Brahmagupta)",
+            "Astronomy & Space Science (Surya Siddhanta, Planetary Motion, Concept of Time)",
+            "Metallurgy and material sciences (Iron Pillar, Wootz Steel, Ayurvedic alloys)",
+            "Civil engineering & architecture (Temple architecture, Town planning, Water management)"
+          ]
+        },
+        {
+          "title": "Module 3: Indian Philosophical & Ethical Systems",
+          "lectures": 6,
+          "topics": [
+            "Key schools of Indian philosophy (Nyaya, Vaisheshika, Samkhya, Yoga, Vedanta)",
+            "Concept of Dharma, Karma, and sustainable living",
+            "Ethics in science and technology from an Indian perspective"
+          ]
+        },
+        {
+          "title": "Module 4: Traditional Medicine & Wellness Systems",
+          "lectures": 4,
+          "topics": [
+            "Foundations of Ayurveda, Yoga, and Siddha",
+            "Holistic health and wellness practices",
+            "Relevance of traditional medicine in modern healthcare"
+          ]
+        },
+        {
+          "title": "Module 5: IKS in Contemporary Applications",
+          "lectures": 4,
+          "topics": [
+            "Revival of traditional knowledge in modern science and engineering",
+            "Case studies (e.g., Panchakarma in wellness tech, Vastu in architecture)",
+            "Government initiatives (National Education Policy 2020, IKS Division under AICTE)"
+          ]
+        }
+      ],
+      "textbooks": [
+        "Indian Knowledge Systems – Kapil Kapoor & Avadhesh Kumar Singh",
+        "Ancient Indian Leaps into Mathematics – B.S. Yadav",
+        "Science and Technology in Ancient India – O.P. Jaggi",
+        "The Positive Sciences of the Ancient Hindus – Brajendranath Seal",
+        "AICTE Model Curriculum for IKS (Available online)"
+      ],
+      "onlineResources": [
+        "NPTEL / SWAYAM courses on IKS",
+        "AICTE-IKS Portal (https://iksindia.org/)",
+        "Digital Library of India (https://dli.gov.in)"
+      ]
+    },
+    {
+      "subject": "Language other than MIL",
+      "code": "AC241307",
+      "type": "Mandatory Audit Course",
+      "hoursPerWeek": "1-1-0",
+      "credits": 0,
+      "assessment": "PP/NP",
+      "courseOutcomes": [
+        {
+          "code": "CO1",
+          "description": "Demonstrate a clear understanding of basic grammar rules including subject-verb agreement, tenses, and cases, and apply them in constructing grammatically correct sentences."
+        },
+        {
+          "code": "CO2",
+          "description": "Identify and correct common grammatical and usage errors in written English, enhancing sentence effectiveness and clarity."
+        },
+        {
+          "code": "CO3",
+          "description": "Enhance their vocabulary through the use of synonyms, antonyms, idiomatic expressions, and phrasal verbs, improving both written and spoken communication."
+        },
+        {
+          "code": "CO4",
+          "description": "Apply verbal reasoning skills to comprehend, arrange, and complete sentences and paragraphs effectively."
+        },
+        {
+          "code": "CO5",
+          "description": "Develop strong reading comprehension skills using skimming, scanning, and intensive reading techniques to extract key information from various texts."
+        },
+        {
+          "code": "CO6",
+          "description": "Produce coherent and concise writing through precis writing and essay composition, demonstrating logical flow, clarity, and appropriate structure."
+        }
+      ],
+      "modules": [
+        {
+          "title": "Module 1: Basic grammar usage",
+          "lectures": 10,
+          "topics": [
+            "Subject-verb agreement, narration, tenses",
+            "Case: Subjective case, possessive case, objective case",
+            "Writing effective sentences, Spotting errors"
+          ]
+        },
+        {
+          "title": "Module 2: Vocabulary Building",
+          "lectures": 6,
+          "topics": [
+            "Synonyms and Antonyms, One word substitution",
+            "Idioms and Phrases and Phrasal Verbs"
+          ]
+        },
+        {
+          "title": "Module 3: Verbal ability",
+          "lectures": 8,
+          "topics": [
+            "Cloze test",
+            "Sentence rearrangement, Sentence completion",
+            "Paragraph Jumbles"
+          ]
+        },
+        {
+          "title": "Module 4: Writing and Reading Ability",
+          "lectures": 8,
+          "topics": [
+            "Reading subskills, Skimming, Scanning and Intensive reading",
+            "Reading Comprehension, Precis Writing, Essay Writing"
+          ]
+        }
+      ],
+      "textbooks": [
+        "Objective General English: S.P.Bakshi, Arihant Publication India Ltd., 2021",
+        "Descriptive English: S.P.Bakshi, Arihant Publication India Ltd., 2016"
+      ]
+    },
+    {
+      "subject": "Programming in Python Lab",
+      "code": "ME241318",
+      "type": "Practical",
+      "hoursPerWeek": "0-0-2",
+      "credits": 1,
+      "prerequisites": "C- Programming",
+      "courseOutcomes": [
+        {
+          "code": "CO1",
+          "description": "Apply basic building blocks of python programming."
+        },
+        {
+          "code": "CO2",
+          "description": "Develop Python programs using control structures, functions, and data structures to solve real-world problems."
+        },
+        {
+          "code": "CO3",
+          "description": "Implement basics concepts of object-oriented programming using Python programs."
+        },
+        {
+          "code": "CO4",
+          "description": "Design and develop interactive graphical user interfaces (GUIs) using Python GUI libraries to create applications and simple games"
+        }
+      ],
+      "modules": [
+        {
+          "title": "Module 1: Introduction",
+          "lectures": 4,
+          "topics": [
+            "Introduction to importance of IDEs like Spyder (Anaconda)/PyCharm for professional programming",
+            "Explore Python shell as a calculator and for inputting Python expressions directly",
+            "HelloWorld program in Python script",
+            "Python keyword and Identifiers",
+            "Indentation, Comments",
+            "Data Types in Python",
+            "Operators in Python: comparison, arithmetic, logical, Boolean, bitwise, assignment",
+            "Python: numbers, list, tuple, strings, set, dictionary",
+            "Conversion between various data types"
+          ]
+        },
+        {
+          "title": "Module 2: Basic Construct",
+          "lectures": 4,
+          "topics": [
+            "Input and Output in Python",
+            "if-else, for loop, while loop, break, pass, continue",
+            "Creating Functions, functions with arguments, returning values from functions",
+            "Lambda expressions, recursion, global and local variables",
+            "Importing other modules/packages and using their functions",
+            "Creating random numbers/random-choice to create programs for simple guessing games like Rock–Paper–Scissors",
+            "Problems on 1D/2D/3D arrays using list",
+            "Problem solving using dictionary as look-up table"
+          ]
+        },
+        {
+          "title": "Module 3: Object Oriented Programming",
+          "lectures": 4,
+          "topics": [
+            "Basics of Object-oriented programming: Class and Object",
+            "Defining variables and functions inside class",
+            "Creating objects, Inheritance, Multiple and Multi Level Inheritance, Function over-riding",
+            "The concept of composing objects of a different class in an object, problems on object composition"
+          ]
+        },
+        {
+          "title": "Module 4: GUI creation in Python (Basic Concept)",
+          "lectures": 6,
+          "topics": [
+            "GUI creation using Python's de-facto GUI package like tkinter or alternative packages like: wxPython, PyQt (PySide), Pygame, Pyglet, and PyGTK",
+            "Creating labels, buttons, entry (textbox), combobox, checkbutton, radiobutton, scrolledText (textarea), spinbox, progressbar, menubar, filedialog, tabs etc.",
+            "Creating GUI simple games like Tic-Tac-Toe"
+          ]
+        }
+      ],
+      "textbooks": [
+        "Think Python 2nd Edition - How to Think Like a Computer Scientist: Allen B Downey, O'Reilly publication, 2nd edition 2016",
+        "Learn Python 3 the Hard Way: Zed A. Shaw, Addison-Wesley, 3rd edition 2017",
+        "Head First Programming: A Learner's Guide to Programming using the Python Language: Paul Barry David Griffiths Barry Griffiths, O'Reilly publication, 1st edition 2009",
+        "Dive into Python 3: Mark Pilgrim, Apress publication, 2nd edition 2009"
+      ]
+    },
+    {
+      "subject": "Mechanics of Materials Lab",
+      "code": "ME241314",
+      "type": "Practical",
+      "hoursPerWeek": "0-0-2",
+      "credits": 1,
+      "courseOutcomes": [
+        {
+          "code": "CO1",
+          "description": "Compute elongation, maximum stress, breaking stress, % age of reduction of area of the given specimen by using Universal Testing Machine."
+        },
+        {
+          "code": "CO2",
+          "description": "Compute the Modulus of Rigidity, Breaking Torque and Ultimate Shear Stress of a mild steel specimen by conducting Torsion Test."
+        },
+        {
+          "code": "CO3",
+          "description": "Compute the shear force and bending moment at any section of the simply supported beam."
+        },
+        {
+          "code": "CO4",
+          "description": "Compute the deflection and bending stress of simply supported subjected to concentrated load at the center."
+        },
+        {
+          "code": "CO5",
+          "description": "Verify the Euler buckling equation for steel columns of various lengths subjected to different end conditions."
+        }
+      ],
+      "experiments": [
+        "Torsion Test: To determine Modulus of Rigidity (C), Breaking Torque (T) and Ultimate Shear Stress (τ) of a mild steel specimen by conducting Torsion Test.",
+        "Tension Test: To determine Elongation, Maximum stress, Breaking stress, % age of reduction of area of the given specimen.",
+        "Shearing Force and Bending Moment: To determine the shear force and bending moment at any section of the simply supported beam",
+        "Deflection of Beams: To determine the deflection and bending stress of simply supported subjected to concentrated load at the center.",
+        "Buckling of Columns: To verify the Euler buckling equation for steel columns of various lengths subjected to different end conditions."
+      ],
+      "textbooks": [
+        "A Textbook of Strength of Materials: R. K. Bansal, Laxmi Publication (P) Ltd., 6th edition 2018",
+        "Fundamentals of Strength of Materials: Debabrata Nag and Abhijit Chanda, Wiley India Pvt Ltd. 2nd edition 2010."
+      ]
+    },
+    {
+      "subject": "Machine Shop",
+      "code": "ME241319",
+      "type": "Practical",
+      "hoursPerWeek": "0-0-2",
+      "credits": 1,
+      "courseOutcomes": [
+        {
+          "code": "CO1",
+          "description": "Practice various turning operations on the given Mild Steel Work piece."
+        },
+        {
+          "code": "CO2",
+          "description": "Practice shaping operation on a given casted rectangular blank."
+        },
+        {
+          "code": "CO3",
+          "description": "Operate Milling Machine for gear cutting and understanding indexing principles."
+        },
+        {
+          "code": "CO4",
+          "description": "Produce a butt joint and lap joint with mild steel strip using Arc Welding."
+        }
+      ],
+      "experiments": [
+        "To perform various turning operations on the given Mild Steel Work piece.",
+        "To produce a rectangular groove on a given casted rectangular blank with the help of shaping operations.",
+        "To perform gear cutting operation on milling machine.",
+        "To prepare a butt joint and lap joint with mild steel strip using Arc Welding."
+      ],
+      "textbooks": [
+        "Elements of Workshop Technology: S.K. Hajra Choudhury, Vol 2, Machine Tools Media Promoters & Pub. P Ltd, 15th edition 2016",
+        "Workshop Technology: Virender Narula, S.K. Kataria & Sons, 3rd edition, 2016",
+        "Workshop Technology: v. 2: W.A.J. Chapman, CBS Publishers, 4th edition 2007"
+      ]
+    }
+  ],
+  "semesterInfo": {
+    "CSE_3": {
+      "branch": "Computer Science Engineering",
+      "branchCode": "CSE",
+      "semester": 3,
+      "university": "Assam Science and Technology University",
+      "academicSession": "2024-25 onwards",
+      "totalContactHoursPerWeek": 30,
+      "totalCredits": 23,
+      "courseStructure": {
+        "theory": [
+          { "code": "CS241301", "title": "Data Structure and Algorithms", "hoursPerWeek": "3-0-0", "credits": 3, "CE": 30, "ESE": 70 },
+          { "code": "CS241302", "title": "Object Oriented Programming", "hoursPerWeek": "3-0-0", "credits": 3, "CE": 30, "ESE": 70 },
+          { "code": "CS241303", "title": "Software Engineering", "hoursPerWeek": "3-0-0", "credits": 3, "CE": 30, "ESE": 70 },
+          { "code": "CS241304", "title": "Digital Systems", "hoursPerWeek": "3-1-0", "credits": 4, "CE": 30, "ESE": 70 },
+          { "code": "MA241305D", "title": "Mathematics III-D", "hoursPerWeek": "3-0-0", "credits": 3, "CE": 30, "ESE": 70 },
+          { "code": "HS241306", "title": "Indian Knowledge Systems", "hoursPerWeek": "2-0-0", "credits": 2, "CE": 0, "ESE": 50 },
+          { "code": "AC241307", "title": "Language other than MIL", "hoursPerWeek": "1-1-0", "credits": 0, "CE": null, "ESE": 50, "assessment": "PP/NP", "mandatoryAuditCourse": true }
+        ],
+        "practical": [
+          { "code": "CS241311", "title": "Data Structure and Algorithms Lab", "hoursPerWeek": "0-0-2", "credits": 1, "CE": 15, "ESE": 35 },
+          { "code": "CS241312", "title": "Object Oriented Programming Lab", "hoursPerWeek": "0-0-2", "credits": 1, "CE": 15, "ESE": 35 },
+          { "code": "CS241318", "title": "Python Programming Lab", "hoursPerWeek": "0-0-2", "credits": 1, "CE": 15, "ESE": 35 },
+          { "code": "SI241321", "title": "Social Internship", "hoursPerWeek": "0-0-4", "credits": 2, "CE": null, "ESE": 50 }
+        ]
+      }
+    },
+    "ME_3": {
+      "branch": "Mechanical Engineering",
+      "branchCode": "ME",
+      "semester": 3,
+      "university": "Assam Science and Technology University",
+      "academicSession": "2024-25 onwards",
+      "totalContactHoursPerWeek": 30,
+      "totalCredits": 23,
+      "courseStructure": {
+        "theory": [
+          { "code": "MA241305A", "title": "Mathematics III-A", "hoursPerWeek": "3-0-0", "credits": 3, "CE": 30, "ESE": 70 },
+          { "code": "ME241301", "title": "Basic Thermodynamics", "hoursPerWeek": "3-0-0", "credits": 3, "CE": 30, "ESE": 70 },
+          { "code": "ME241302", "title": "Theory of Machines", "hoursPerWeek": "3-0-2", "credits": 4, "CE": 30, "ESE": 70 },
+          { "code": "ME241303", "title": "Machine Tools and Metal Cutting", "hoursPerWeek": "3-0-0", "credits": 3, "CE": 30, "ESE": 70 },
+          { "code": "ME241304", "title": "Mechanics of Materials", "hoursPerWeek": "3-0-0", "credits": 3, "CE": 30, "ESE": 70 },
+          { "code": "HS241306", "title": "Indian Knowledge Systems", "hoursPerWeek": "2-0-0", "credits": 2, "CE": 0, "ESE": 50 },
+          { "code": "AC241307", "title": "Language other than MIL", "hoursPerWeek": "1-1-0", "credits": 0, "CE": null, "ESE": 50, "assessment": "PP/NP", "mandatoryAuditCourse": true }
+        ],
+        "practical": [
+          { "code": "ME241318", "title": "Programming in Python Lab", "hoursPerWeek": "0-0-2", "credits": 1, "CE": 15, "ESE": 35 },
+          { "code": "ME241314", "title": "Mechanics of Materials Lab", "hoursPerWeek": "0-0-2", "credits": 1, "CE": 15, "ESE": 35 },
+          { "code": "ME241319", "title": "Machine Shop", "hoursPerWeek": "0-0-2", "credits": 1, "CE": 15, "ESE": 35 }
+        ]
+      }
     }
   }
 }
