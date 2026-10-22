@@ -1,0 +1,1151 @@
+{
+  "CSE_3": [
+    {
+      "subject": "Data Structure and Algorithms",
+      "code": "CS241301",
+      "type": "Theory",
+      "hoursPerWeek": "3-0-0",
+      "credits": 3,
+      "courseOutcomes": [
+        {
+          "code": "CO1",
+          "description": "Analyze the time and space complexity of simple algorithms and code segments using asymptotic notations.",
+          "level": "Analyzing - Level 4",
+          "modules": [
+            1
+          ]
+        },
+        {
+          "code": "CO2",
+          "description": "Choose among the fundamental data structures and apply them to solve computational problems.",
+          "level": "Applying - Level 3",
+          "modules": [
+            2
+          ]
+        },
+        {
+          "code": "CO3",
+          "description": "Choose the efficient searching and sorting algorithms and apply them for problem solving.",
+          "level": "Applying - Level 3",
+          "modules": [
+            3
+          ]
+        },
+        {
+          "code": "CO4",
+          "description": "Apply tree and graph for problem solving.",
+          "level": "Applying - Level 3",
+          "modules": [
+            4,
+            5
+          ]
+        },
+        {
+          "code": "CO5",
+          "description": "Evaluate the performance of advanced data structures such as heaps, priority queues, and hash tables for problem solving, enhancing data storage and retrieval efficiency.",
+          "level": "Evaluating - Level 5",
+          "modules": [
+            6,
+            7
+          ]
+        }
+      ],
+      "modules": [
+        {
+          "title": "Module 1: Introduction",
+          "topics": [
+            "The notion of data structures and algorithms",
+            "Worst-case time complexity",
+            "Average-case time/space complexity",
+            "Space complexity",
+            "Asymptotic notations",
+            "Growth of functions"
+          ]
+        },
+        {
+          "title": "Module 2: Fundamental Data Structures",
+          "topics": [
+            "Abstract data types (ADTs)",
+            "Arrays and linked lists",
+            "Stacks and queues and their implementations using arrays and linked lists",
+            "Doubly linked lists and implementation",
+            "Prefix, postfix and infix notations",
+            "Uses of stacks and queues in expression evaluation and conversion"
+          ]
+        },
+        {
+          "title": "Module 3: Searching and Sorting",
+          "topics": [
+            "Linear search",
+            "Binary search",
+            "Bubble sort",
+            "Insertion sort",
+            "Selection sort",
+            "Divide and conquer paradigm",
+            "Merge sort with average- and worst-case analysis",
+            "Quick sort with average- and worst-case analysis",
+            "Randomized quicksort",
+            "Choosing better data structures for different kinds of search and sort"
+          ]
+        },
+        {
+          "title": "Module 4: Trees and Graphs",
+          "topics": [
+            "Basic definitions of graph and tree",
+            "Graph representation: adjacency list and adjacency matrix",
+            "Tree ADT and examples",
+            "Implementation of trees",
+            "In-order traversal",
+            "Pre-order traversal",
+            "Post-order traversal",
+            "Binary trees"
+          ]
+        },
+        {
+          "title": "Module 5: Advanced Trees",
+          "topics": [
+            "Binary Search Trees: definition and basic algorithms",
+            "AVL trees",
+            "Height-balance condition",
+            "AVL tree rotations",
+            "Introduction to multi-way search trees",
+            "Informal discussion of extension to B-trees"
+          ]
+        },
+        {
+          "title": "Module 6: Heaps and Priority Queues",
+          "topics": [
+            "Priority Queue ADT and basic implementation methods",
+            "Binary heaps",
+            "Binomial heaps",
+            "Implementation of priority queues using heaps and running-time analysis",
+            "Implementation of heaps using arrays",
+            "Heap sort"
+          ]
+        },
+        {
+          "title": "Module 7: Hashing",
+          "topics": [
+            "Hash tables and hash functions",
+            "Collision resolution schemes",
+            "Chaining",
+            "Open addressing",
+            "Linear probing",
+            "Quadratic probing",
+            "Double hashing"
+          ]
+        }
+      ],
+      "textbooks": [
+        "Expert Data Structures with C — R.B. Patel, Khanna Book Publishing Company, New Delhi, 4th Edition",
+        "Fundamentals of Data Structures, Illustrated Edition — Ellis Horowitz and Sartaj Sahni, Computer Science Press",
+        "Introduction to Algorithms — Cormen et al."
+      ]
+    },
+    {
+      "subject": "Object Oriented Programming",
+      "code": "CS241302",
+      "type": "Theory",
+      "hoursPerWeek": "3-0-0",
+      "credits": 3,
+      "courseOutcomes": [
+        {
+          "code": "CO1",
+          "description": "Demonstrate proficiency in using programming environments, debugging tools, and source code management systems for efficient software development and maintenance.",
+          "level": "Understanding - Level 2",
+          "modules": [
+            1
+          ]
+        },
+        {
+          "code": "CO2",
+          "description": "Apply object-oriented programming (OOP) principles to design maintainable and well-structured software solutions.",
+          "level": "Applying - Level 3",
+          "modules": [
+            2
+          ]
+        },
+        {
+          "code": "CO3",
+          "description": "Implement advanced OOP features in C++ and Java to develop scalable and efficient applications.",
+          "level": "Applying - Level 3",
+          "modules": [
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "code": "CO4",
+          "description": "Develop robust software using unit testing frameworks and defensive programming techniques to ensure reliability and error handling.",
+          "level": "Creating - Level 6",
+          "modules": [
+            6
+          ]
+        },
+        {
+          "code": "CO5",
+          "description": "Create software architectures using software modeling techniques and design patterns such as class diagrams and sequence diagrams.",
+          "level": "Creating - Level 6",
+          "modules": [
+            7
+          ]
+        }
+      ],
+      "modules": [
+        {
+          "title": "Module 1: Development Tools",
+          "topics": [
+            "Understanding the build system",
+            "IDE",
+            "Debugging",
+            "Profiling",
+            "Source code management"
+          ]
+        },
+        {
+          "title": "Module 2: Object-Oriented Paradigm",
+          "topics": [
+            "Data encapsulation",
+            "Modularity",
+            "Code reuse",
+            "Identifying classes, attributes, methods and objects",
+            "Class relationships"
+          ]
+        },
+        {
+          "title": "Module 3: Advanced OOP Concepts",
+          "topics": [
+            "Interfaces",
+            "Inheritance",
+            "Polymorphism",
+            "Abstract classes",
+            "Immutability",
+            "Copying and cloning objects"
+          ]
+        },
+        {
+          "title": "Module 4: C++",
+          "topics": [
+            "Basics of C++ language",
+            "Control structures",
+            "Classes and objects",
+            "Inheritance"
+          ]
+        },
+        {
+          "title": "Module 5: Java",
+          "topics": [
+            "Basics of Java language",
+            "Control structures",
+            "Classes and objects",
+            "Inheritance",
+            "Interfaces",
+            "Exception handling"
+          ]
+        },
+        {
+          "title": "Module 6: Testing and Defensive Programming",
+          "topics": [
+            "Unit testing",
+            "Developing test suite",
+            "Exception handling",
+            "Assertions"
+          ]
+        },
+        {
+          "title": "Module 7: Data Structure and Algorithms Laboratory",
+          "topics": []
+        }
+      ],
+      "textbooks": [
+        "Object-Oriented Analysis and Design with Applications — Grady Booch et al.",
+        "Programming Language Pragmatics, 4th Edition — M. Scott",
+        "Object-Oriented Programming with C++ — Balaguruswamy, McGraw Hill Education",
+        "Web Enabled Commercial Application using Java 2 — Ivan Bay Ross, BPB Publication (1998)",
+        "Concepts of Programming Languages, 10th Edition — R. Sebesta",
+        "The Unified Modeling Language Reference Manual — J. Rumbaugh et al.",
+        "Design Patterns: Elements of Reusable Object-Oriented Software — Erich Gamma et al.",
+        "Concepts, Techniques, and Models of Computer Programming — P. Van Roy and S. Haridi"
+      ]
+    },
+    {
+      "subject": "Software Engineering",
+      "code": "CS241303",
+      "type": "Theory",
+      "hoursPerWeek": "3-0-0",
+      "credits": 3,
+      "courseOutcomes": [
+        {
+          "code": "CO1",
+          "description": "Select the most appropriate software process models for a given project scenario.",
+          "level": "Applying - Level 3",
+          "modules": [
+            1
+          ]
+        },
+        {
+          "code": "CO2",
+          "description": "Apply project estimation and risk management techniques to plan, schedule, and manage software projects efficiently.",
+          "level": "Applying - Level 3",
+          "modules": [
+            2
+          ]
+        },
+        {
+          "code": "CO3",
+          "description": "Develop a comprehensive Software Requirements Specification (SRS) document based on requirement engineering principles, design efficient software architectures using appropriate design methodologies and propose coding styles.",
+          "level": "Creating - Level 6",
+          "modules": [
+            3,
+            4
+          ]
+        },
+        {
+          "code": "CO4",
+          "description": "Evaluate software quality through testing techniques and SQA practices to ensure reliability and maintainability of software systems.",
+          "level": "Evaluating - Level 5",
+          "modules": [
+            5
+          ]
+        },
+        {
+          "code": "CO5",
+          "description": "Apply modern Computer Aided Software Engineering (CASE) tools in the software life cycle to improve process automation and software quality.",
+          "level": "Applying - Level 3",
+          "modules": [
+            6
+          ]
+        }
+      ],
+      "modules": [
+        {
+          "title": "Module 1: Introduction and Software Process Models",
+          "topics": [
+            "Software",
+            "Software engineering",
+            "Software process",
+            "Importance of software engineering",
+            "Standard for software process",
+            "Waterfall model",
+            "Prototyping model",
+            "Iterative enhancement model",
+            "Spiral model",
+            "RAD model",
+            "4th Generation models",
+            "Formal methods",
+            "Agile development"
+          ]
+        },
+        {
+          "title": "Module 2: Software Project Management",
+          "topics": [
+            "Role of management in software development",
+            "Project estimation techniques",
+            "Staffing",
+            "Scheduling",
+            "Earned Value Analysis",
+            "Software risks",
+            "Software Configuration Management",
+            "Software process and project metrics"
+          ]
+        },
+        {
+          "title": "Module 3: Requirement Engineering",
+          "topics": [
+            "Software requirements",
+            "Types of requirements",
+            "Requirement engineering cycle",
+            "Requirements specification document",
+            "Characteristics of requirements",
+            "Requirement verification and validation"
+          ]
+        },
+        {
+          "title": "Module 4: Software Design and Coding",
+          "topics": [
+            "Design process",
+            "Data and behavioural modelling",
+            "Design concepts",
+            "Modularity",
+            "Architectural design",
+            "Coupling and cohesion",
+            "Top-down and bottom-up design",
+            "Object-oriented analysis",
+            "Function-oriented and object-oriented design approach",
+            "Software Design Document",
+            "Coding styles and documentation"
+          ]
+        },
+        {
+          "title": "Module 5: Testing and Software Quality",
+          "topics": [
+            "Testing principles",
+            "Testing strategies",
+            "Black-box and white-box testing techniques",
+            "Unit, integration, system and regression testing",
+            "Test plan",
+            "Test cases specification",
+            "Software debugging",
+            "Software maintenance",
+            "Software Quality Assurance (SQA)",
+            "Software reliability",
+            "Software availability"
+          ]
+        },
+        {
+          "title": "Module 6: CASE and Advanced Topics",
+          "topics": [
+            "Computer Aided Software Engineering (CASE) and its scope",
+            "CASE support in software life cycle",
+            "Architecture of CASE environment",
+            "Upper CASE and Lower CASE",
+            "Exposure to CASE tools",
+            "Software process improvement",
+            "Component Based Software Engineering",
+            "Web engineering",
+            "Reverse engineering",
+            "Software engineering challenges of Big Data",
+            "Mobile applications"
+          ]
+        }
+      ],
+      "textbooks": [
+        "Software Engineering: A Practitioner’s Approach — R.S. Pressman, 3rd Edition (as printed in syllabus)",
+        "Software Engineering — Ian Sommerville, Pearson Education Asia, 6th Edition, 2000",
+        "An Integrated Approach to Software Engineering — Pankaj Jalote, Springer Verlag, 1997",
+        "Software Engineering: An Engineering Approach — James F. Peters and Witold Pedryez, John Wiley and Sons"
+      ]
+    },
+    {
+      "subject": "Digital Systems",
+      "code": "CS241304",
+      "type": "Theory",
+      "hoursPerWeek": "3-1-0",
+      "credits": 4,
+      "courseOutcomes": [
+        {
+          "code": "CO1",
+          "description": "Demonstrate familiarity with the fundamentals of digital systems to analyze and implement basic digital circuits.",
+          "level": "Understanding - Level 2",
+          "modules": [
+            1
+          ]
+        },
+        {
+          "code": "CO2",
+          "description": "Analyze and construct combinational digital circuits.",
+          "level": "Analyzing - Level 4",
+          "modules": [
+            2
+          ]
+        },
+        {
+          "code": "CO3",
+          "description": "Analyze and construct sequential digital circuits.",
+          "level": "Analyzing - Level 4",
+          "modules": [
+            3
+          ]
+        },
+        {
+          "code": "CO4",
+          "description": "Apply A/D and D/A conversion techniques in digital systems.",
+          "level": "Applying - Level 3",
+          "modules": [
+            4
+          ]
+        },
+        {
+          "code": "CO5",
+          "description": "Design and differentiate memory architectures and programmable logic devices for efficient digital system design.",
+          "level": "Creating - Level 6",
+          "modules": [
+            5
+          ]
+        }
+      ],
+      "modules": [
+        {
+          "title": "Module 1: Digital Fundamentals",
+          "topics": [
+            "Digital signals and digital circuits",
+            "AND, OR, NOT, NAND, NOR and Exclusive-OR operations",
+            "Boolean algebra",
+            "Examples of IC gates",
+            "Binary, signed binary, octal and hexadecimal number systems",
+            "Binary arithmetic",
+            "One's and two's complement arithmetic",
+            "Codes",
+            "Characteristics of digital ICs",
+            "Digital logic families",
+            "TTL, Schottky TTL and CMOS logic",
+            "Interfacing CMOS and TTL",
+            "Tri-state logic",
+            "Representation of floating-point numbers in IEEE 754 standards"
+          ]
+        },
+        {
+          "title": "Module 2: Combinational Logic",
+          "topics": [
+            "Standard representation for logic functions",
+            "K-map representation",
+            "Simplification of logic functions using K-map",
+            "Minimization of logical functions",
+            "Don't-care conditions",
+            "Multiplexer",
+            "Demultiplexer",
+            "Decoders",
+            "Adders",
+            "Subtractors",
+            "BCD arithmetic",
+            "Carry look-ahead adder",
+            "Serial adder",
+            "ALU and elementary ALU design",
+            "Popular MSI chips",
+            "Digital comparator",
+            "Parity checker and generator",
+            "Code converters",
+            "Priority encoders",
+            "Display-device decoder drivers",
+            "Quine–McCluskey (Q-M) method of function realization",
+            "Simplification by algebraic methods"
+          ]
+        },
+        {
+          "title": "Module 3: Sequential Logic",
+          "topics": [
+            "A 1-bit memory",
+            "Circuit properties of bistable latch",
+            "Clocked SR flip-flop",
+            "J-K, T and D flip-flops",
+            "Applications of flip-flops",
+            "Shift registers and applications",
+            "Serial-to-parallel converter",
+            "Parallel-to-serial converter",
+            "Ring counter",
+            "Sequence generator",
+            "Ripple (asynchronous) counters",
+            "Synchronous counters",
+            "Counter design using flip-flops",
+            "Special counter ICs",
+            "Asynchronous sequential counters",
+            "Applications of counters"
+          ]
+        },
+        {
+          "title": "Module 4: Data Converters",
+          "topics": [
+            "Digital-to-analog converters",
+            "Weighted-resistor converter",
+            "Examples of D/A converter ICs",
+            "Sample-and-hold circuit",
+            "Analog-to-digital converters",
+            "Quantization and encoding",
+            "Parallel-comparator A/D converter",
+            "Counting A/D converter"
+          ]
+        },
+        {
+          "title": "Module 5: Memory and Programmable Logic",
+          "topics": [
+            "Memory organization and operation",
+            "Expanding memory size",
+            "Classification and characteristics of memories",
+            "Sequential memory",
+            "Read-only memory (ROM)",
+            "Read-and-write memory (RAM)",
+            "Content-addressable memory (CAM)",
+            "Charge-coupled device memory (CCD)",
+            "Commonly used memory chips",
+            "ROM as a PLD",
+            "Programmable logic array",
+            "Programmable array logic"
+          ]
+        }
+      ],
+      "textbooks": [
+        "Modern Digital Electronics — R.P. Jain, McGraw Hill Education, 2009",
+        "Digital Logic and Computer Design — M.M. Mano, Pearson Education India, 2016",
+        "Fundamentals of Digital Circuits — A. Kumar, Prentice Hall India, 2016",
+        "Digital Computer Electronics — Albert Malvino and Jerald Brown"
+      ]
+    },
+    {
+      "subject": "Mathematics III-D",
+      "code": "MA241305D",
+      "type": "Theory",
+      "hoursPerWeek": "3-0-0",
+      "credits": 3,
+      "courseOutcomes": [
+        {
+          "code": "CO1",
+          "description": "Apply knowledge of algebraic structures to understand the basics of the theoretical foundation of computer science."
+        },
+        {
+          "code": "CO2",
+          "description": "Apply the basic principles of probability and probability distributions in the context of data science."
+        },
+        {
+          "code": "CO3",
+          "description": "Analyse and draw conclusions from sample data."
+        },
+        {
+          "code": "CO4",
+          "description": "Apply graph-theoretic techniques to solve problems of Computer Science and Engineering."
+        }
+      ],
+      "modules": [
+        {
+          "title": "Module 1: Algebraic Structures",
+          "contactHours": 8,
+          "marks": 14,
+          "topics": [
+            "Definitions and basic properties of semigroups, monoids and groups",
+            "Subgroups and normal subgroups",
+            "Group homomorphism and related theorems",
+            "Basics of rings, integral domains and fields",
+            "Introduction to lattices and Boolean algebras"
+          ]
+        },
+        {
+          "title": "Module 2: Probability and Random Variables",
+          "contactHours": 12,
+          "marks": 21,
+          "topics": [
+            "Axiomatic definitions of probability",
+            "Conditional probability",
+            "Independence",
+            "Rule of total probability",
+            "Bayes' Rule",
+            "Random variables and their distributions",
+            "Cumulative distribution function and its properties",
+            "Discrete, continuous and mixed random variables",
+            "Probability mass and density functions",
+            "Mean, variance and moments",
+            "Characteristic and moment-generating functions",
+            "Binomial, Poisson, uniform and normal distributions",
+            "Functions of random variables",
+            "Joint distributions",
+            "Covariance and correlations"
+          ]
+        },
+        {
+          "title": "Module 3: Statistical Inference",
+          "contactHours": 6,
+          "marks": 11,
+          "topics": [
+            "Basics of statistical inference",
+            "Sampling and standard error",
+            "Point and interval estimations",
+            "Maximum likelihood estimator",
+            "Level of significance",
+            "Tests of significance for large and small samples",
+            "Student's t-distribution",
+            "Chi-square distribution"
+          ]
+        },
+        {
+          "title": "Module 4: Graph Theory",
+          "contactHours": 14,
+          "marks": 24,
+          "topics": [
+            "Graphs and their representations by adjacency and incidence matrices",
+            "Varieties of graphs",
+            "Walks and connectedness",
+            "Degrees",
+            "Isomorphism of graphs",
+            "Cut points, bridges and blocks",
+            "Trees and their properties",
+            "Binary trees",
+            "Eulerian and Hamiltonian graphs",
+            "Planar graphs and duals",
+            "Thickness and crossing numbers",
+            "Colourability of graphs",
+            "Five-colour theorem",
+            "Chromatic number and chromatic polynomial"
+          ]
+        }
+      ],
+      "textbooks": [
+        "Discrete Mathematical Structures with Application to Computer Science — J.P. Trembly and R.P. Manohar, Tata McGraw Hill, 2001",
+        "A First Course in Probability — S. Ross, Pearson Education India, 2002",
+        "Advanced Engineering Mathematics — R.K. Jain and S.R.K. Iyengar, Narosa, 2016",
+        "Discrete Mathematics and Its Applications — Kenneth H. Rosen, Tata McGraw Hill, 2007",
+        "Graph Theory with Applications to Engineering and Computer Science — Narsingh Deo, Prentice Hall",
+        "Statistical Methods: An Introductory Text — J. Medhi, New Age International Publishers"
+      ]
+    },
+    {
+      "subject": "Indian Knowledge Systems",
+      "code": "HS241306",
+      "type": "Theory",
+      "hoursPerWeek": "2-0-0",
+      "credits": 2,
+      "courseObjectives": [
+        "Introduce foundational concepts of Indian Knowledge Systems (IKS)",
+        "Explore contributions of ancient and medieval India in science, technology, mathematics and philosophy",
+        "Develop appreciation for traditional Indian knowledge and its relevance in modern contexts",
+        "Encourage critical thinking about indigenous knowledge systems and their applications"
+      ],
+      "courseOutcomes": [
+        {
+          "code": "CO1",
+          "description": "Understand the key principles of Indian Knowledge Systems."
+        },
+        {
+          "code": "CO2",
+          "description": "Recognize India's contributions to science, mathematics, medicine and engineering."
+        },
+        {
+          "code": "CO3",
+          "description": "Analyze the interdisciplinary nature of IKS and its connections with modern technology."
+        },
+        {
+          "code": "CO4",
+          "description": "Appreciate the philosophical and ethical dimensions of traditional Indian knowledge."
+        }
+      ],
+      "modules": [
+        {
+          "title": "Module 1: Introduction to Indian Knowledge System (IKS)",
+          "lectures": 4,
+          "topics": [
+            "Definition, scope and significance of IKS",
+            "Sources of Indian knowledge: Vedas, Upanishads, Puranas, Smritis and other texts",
+            "Classification of knowledge in Indian tradition (Vidyas and Kalas)"
+          ]
+        },
+        {
+          "title": "Module 2: Science and Technology in Ancient India",
+          "lectures": 12,
+          "topics": [
+            "Contributions to mathematics: zero, decimal system, Vedic Mathematics, Aryabhata and Brahmagupta",
+            "Astronomy and space science: Surya Siddhanta, planetary motion and concept of time",
+            "Metallurgy and material sciences: Iron Pillar, Wootz Steel and Ayurvedic alloys",
+            "Civil engineering and architecture: temple architecture, town planning and water management"
+          ]
+        },
+        {
+          "title": "Module 3: Indian Philosophical and Ethical Systems",
+          "lectures": 6,
+          "topics": [
+            "Key schools of Indian philosophy: Nyaya, Vaisheshika, Samkhya, Yoga and Vedanta",
+            "Concept of Dharma, Karma and sustainable living",
+            "Ethics in science and technology from an Indian perspective"
+          ]
+        },
+        {
+          "title": "Module 4: Traditional Medicine and Wellness Systems",
+          "lectures": 4,
+          "topics": [
+            "Foundations of Ayurveda, Yoga and Siddha",
+            "Holistic health and wellness practices",
+            "Relevance of traditional medicine in modern healthcare"
+          ]
+        },
+        {
+          "title": "Module 5: IKS in Contemporary Applications",
+          "lectures": 4,
+          "topics": [
+            "Revival of traditional knowledge in modern science and engineering",
+            "Case studies such as Panchakarma in wellness technology and Vastu in architecture",
+            "Government initiatives: National Education Policy 2020 and IKS Division under AICTE"
+          ]
+        }
+      ],
+      "textbooks": [
+        "Indian Knowledge Systems — Kapil Kapoor and Avadhesh Kumar Singh",
+        "Ancient Indian Leaps into Mathematics — B.S. Yadav",
+        "Science and Technology in Ancient India — O.P. Jaggi",
+        "The Positive Sciences of the Ancient Hindus — Brajendranath Seal",
+        "AICTE Model Curriculum for IKS"
+      ],
+      "onlineResources": [
+        "NPTEL / SWAYAM courses on IKS",
+        "AICTE-IKS Portal: https://iksindia.org/",
+        "Digital Library of India: https://dli.gov.in"
+      ]
+    },
+    {
+      "subject": "Language other than MIL",
+      "code": "AC241307",
+      "type": "Mandatory Audit Course",
+      "hoursPerWeek": "1-1-0",
+      "credits": 0,
+      "assessment": "PP/NP",
+      "courseOutcomes": [
+        {
+          "code": "CO1",
+          "description": "Demonstrate understanding of basic grammar rules including subject-verb agreement, tenses and cases, and apply them in constructing grammatically correct sentences."
+        },
+        {
+          "code": "CO2",
+          "description": "Identify and correct common grammatical and usage errors in written English."
+        },
+        {
+          "code": "CO3",
+          "description": "Enhance vocabulary through synonyms, antonyms, idiomatic expressions and phrasal verbs."
+        },
+        {
+          "code": "CO4",
+          "description": "Apply verbal reasoning skills to comprehend, arrange and complete sentences and paragraphs."
+        },
+        {
+          "code": "CO5",
+          "description": "Develop reading comprehension skills using skimming, scanning and intensive reading."
+        },
+        {
+          "code": "CO6",
+          "description": "Produce coherent and concise writing through precis writing and essay composition."
+        }
+      ],
+      "modules": [
+        {
+          "title": "Module 1: Basic Grammar Usage",
+          "lectures": 10,
+          "topics": [
+            "Subject-verb agreement",
+            "Narration",
+            "Tenses",
+            "Subjective, possessive and objective cases",
+            "Writing effective sentences",
+            "Spotting errors"
+          ]
+        },
+        {
+          "title": "Module 2: Vocabulary Building",
+          "lectures": 6,
+          "topics": [
+            "Synonyms and antonyms",
+            "One-word substitution",
+            "Idioms and phrases",
+            "Phrasal verbs"
+          ]
+        },
+        {
+          "title": "Module 3: Verbal Ability",
+          "lectures": 8,
+          "topics": [
+            "Cloze test",
+            "Sentence rearrangement",
+            "Sentence completion",
+            "Paragraph jumbles"
+          ]
+        },
+        {
+          "title": "Module 4: Writing and Reading Ability",
+          "lectures": 8,
+          "topics": [
+            "Reading subskills",
+            "Skimming",
+            "Scanning and intensive reading",
+            "Reading comprehension",
+            "Precis writing",
+            "Essay writing"
+          ]
+        }
+      ],
+      "textbooks": [
+        "Objective General English — S.P. Bakshi, Arihant Publication India Ltd., 2021",
+        "Descriptive English — S.P. Bakshi, Arihant Publication India Ltd., 2016"
+      ]
+    },
+    {
+      "subject": "Data Structure and Algorithms Lab",
+      "code": "CS241311",
+      "type": "Practical",
+      "hoursPerWeek": "0-0-2",
+      "credits": 1,
+      "courseOutcomes": [
+        {
+          "code": "CO1",
+          "description": "Analyze runtime of simple algorithms or code segments.",
+          "level": "Analyzing - Level 4"
+        },
+        {
+          "code": "CO2",
+          "description": "Implement linear and non-linear data structures such as arrays, stacks, queues and linked lists to solve computational problems.",
+          "level": "Applying - Level 3"
+        },
+        {
+          "code": "CO3",
+          "description": "Implement searching and sorting algorithms in terms of time and space complexity.",
+          "level": "Applying - Level 3"
+        },
+        {
+          "code": "CO4",
+          "description": "Implement trees and graphs and perform basic tree and graph traversals using suitable programs.",
+          "level": "Applying - Level 3"
+        },
+        {
+          "code": "CO5",
+          "description": "Choose and implement appropriate data structures for specific application scenarios.",
+          "level": "Evaluating - Level 5"
+        }
+      ],
+      "experiments": [
+        "Worst/average-case analysis and asymptotic notations for small pseudocodes",
+        "Implementation of arrays",
+        "Linear search using array",
+        "Binary search using array",
+        "Different kinds of linked lists with all possible operations",
+        "Stacks and queues using linked lists and arrays",
+        "Bubble, insertion, selection, merge and quick sort using arrays; check possibility of implementing using linked lists",
+        "Stacks applied to a problem",
+        "Queues applied to a problem",
+        "Binary search trees and basic tree traversal algorithms",
+        "Binary heap",
+        "Graph implementation using adjacency list and adjacency matrix",
+        "Basic concepts of hashing"
+      ],
+      "textbooks": [
+        "Expert Data Structures with C — R.B. Patel, Khanna Book Publishing Company, New Delhi, 4th Edition",
+        "Fundamentals of Data Structures, Illustrated Edition — Ellis Horowitz and Sartaj Sahni, Computer Science Press",
+        "Data Structure Through C — Yashavant P. Kanetkar, BPB Publications"
+      ]
+    },
+    {
+      "subject": "Object Oriented Programming Lab",
+      "code": "CS241312",
+      "type": "Practical",
+      "hoursPerWeek": "0-0-2",
+      "credits": 1,
+      "courseOutcomes": [
+        {
+          "code": "CO1",
+          "description": "Implement classes and objects to encapsulate data and methods in C++ programs.",
+          "level": "Applying - Level 3"
+        },
+        {
+          "code": "CO2",
+          "description": "Implement C++ programs using OOP concepts such as inheritance, function overloading and operator overloading.",
+          "level": "Applying - Level 3"
+        },
+        {
+          "code": "CO3",
+          "description": "Implement programs demonstrating constructors, destructors and access specifiers for effective memory and access control.",
+          "level": "Applying - Level 3"
+        },
+        {
+          "code": "CO4",
+          "description": "Design and develop object-oriented solutions for real-life scenarios such as library management and banking systems.",
+          "level": "Creating - Level 6"
+        }
+      ],
+      "experiments": [
+        "Class with data members and member functions",
+        "Create multiple objects of a class and use their data members and member functions",
+        "Array of objects and use of data members and member functions",
+        "Different types of inheritance",
+        "Function overloading",
+        "Constructors and destructors",
+        "Operator overloading",
+        "Classes and objects for real problems such as book shops, libraries and banks",
+        "Applications of access specifiers"
+      ],
+      "programmingLanguage": "C++"
+    },
+    {
+      "subject": "Python Programming Lab",
+      "code": "CS241318",
+      "type": "Practical",
+      "hoursPerWeek": "0-0-2",
+      "credits": 1,
+      "courseOutcomes": [
+        {
+          "code": "CO1",
+          "description": "Apply basic building blocks of Python programming."
+        },
+        {
+          "code": "CO2",
+          "description": "Develop Python programs using control structures, functions and data structures to solve real-world problems."
+        },
+        {
+          "code": "CO3",
+          "description": "Implement basic object-oriented programming concepts using Python programs."
+        },
+        {
+          "code": "CO4",
+          "description": "Design and develop interactive graphical user interfaces using Python GUI libraries to create applications and simple games."
+        }
+      ],
+      "modules": [
+        {
+          "title": "Module 1: Python Fundamentals",
+          "topics": [
+            "Importance of IDEs such as Spyder (Anaconda) and PyCharm",
+            "Python shell as a calculator and for direct expressions",
+            "Hello World program in Python script",
+            "Python keywords and identifiers",
+            "Indentation and comments",
+            "Data types",
+            "Comparison, arithmetic, logical, Boolean, bitwise and assignment operators",
+            "Numbers, lists, tuples, strings, sets and dictionaries",
+            "Conversion between data types"
+          ]
+        },
+        {
+          "title": "Module 2: Control Flow, Functions and Data Structures",
+          "topics": [
+            "Input and output",
+            "if-else",
+            "for and while loops",
+            "break, pass and continue",
+            "Creating functions",
+            "Function arguments and return values",
+            "Lambda expressions",
+            "Recursion",
+            "Global and local variables",
+            "Importing modules and packages",
+            "Random numbers and random choice",
+            "Rock-Paper-Scissors and guessing games",
+            "1D, 2D and 3D array problems using lists",
+            "Problem solving using dictionaries as lookup tables"
+          ]
+        },
+        {
+          "title": "Module 3: Object-Oriented Programming",
+          "topics": [
+            "Classes and objects",
+            "Variables and functions inside classes",
+            "Creating objects",
+            "Inheritance",
+            "Multiple and multilevel inheritance",
+            "Function overriding",
+            "Object composition",
+            "Problems on object composition"
+          ]
+        },
+        {
+          "title": "Module 4: GUI Programming",
+          "topics": [
+            "GUI creation using tkinter or alternatives such as wxPython, PyQt (PySide), Pygame, Pyglet and PyGTK",
+            "Labels, buttons, entry/textbox, combobox, checkbutton, radiobutton, scrolledText/textarea, spinbox, progressbar, menubar, filedialog and tabs",
+            "Simple GUI games such as Tic-Tac-Toe"
+          ]
+        }
+      ],
+      "textbooks": [
+        "Think Python: How to Think Like a Computer Scientist, 2nd Edition — Allen B. Downey, O'Reilly, 2016",
+        "Learn Python 3 the Hard Way, 3rd Edition — Zed A. Shaw, Addison-Wesley, 2017",
+        "Head First Programming: A Learner's Guide to Programming Using the Python Language — Paul Barry and David Griffiths, O'Reilly, 2009",
+        "Dive into Python 3, 2nd Edition — Mark Pilgrim, Apress"
+      ]
+    },
+    {
+      "subject": "Social Internship",
+      "code": "SI241321",
+      "type": "Practical",
+      "hoursPerWeek": "0-0-4",
+      "credits": 2,
+      "modules": [],
+      "note": "The uploaded syllabus lists the course structure and assessment but does not provide detailed modules or experiments for this course."
+    }
+  ],
+  "semesterInfo": {
+    "branch": "Computer Science Engineering",
+    "branchCode": "CSE",
+    "semester": 3,
+    "university": "Assam Science and Technology University",
+    "academicSession": "2024-25 onwards",
+    "totalContactHoursPerWeek": 30,
+    "totalCredits": 23,
+    "courseStructure": {
+      "theory": [
+        {
+          "code": "CS241301",
+          "title": "Data Structure and Algorithms",
+          "hoursPerWeek": "3-0-0",
+          "credits": 3,
+          "CE": 30,
+          "ESE": 70
+        },
+        {
+          "code": "CS241302",
+          "title": "Object Oriented Programming",
+          "hoursPerWeek": "3-0-0",
+          "credits": 3,
+          "CE": 30,
+          "ESE": 70
+        },
+        {
+          "code": "CS241303",
+          "title": "Software Engineering",
+          "hoursPerWeek": "3-0-0",
+          "credits": 3,
+          "CE": 30,
+          "ESE": 70
+        },
+        {
+          "code": "CS241304",
+          "title": "Digital Systems",
+          "hoursPerWeek": "3-1-0",
+          "credits": 4,
+          "CE": 30,
+          "ESE": 70
+        },
+        {
+          "code": "MA241305D",
+          "title": "Mathematics III-D",
+          "hoursPerWeek": "3-0-0",
+          "credits": 3,
+          "CE": 30,
+          "ESE": 70
+        },
+        {
+          "code": "HS241306",
+          "title": "Indian Knowledge Systems",
+          "hoursPerWeek": "2-0-0",
+          "credits": 2,
+          "CE": 0,
+          "ESE": 50
+        },
+        {
+          "code": "AC241307",
+          "title": "Language other than MIL",
+          "hoursPerWeek": "1-1-0",
+          "credits": 0,
+          "CE": null,
+          "ESE": 50,
+          "assessment": "PP/NP",
+          "mandatoryAuditCourse": true
+        }
+      ],
+      "practical": [
+        {
+          "code": "CS241311",
+          "title": "Data Structure and Algorithms Lab",
+          "hoursPerWeek": "0-0-2",
+          "credits": 1,
+          "CE": 15,
+          "ESE": 35
+        },
+        {
+          "code": "CS241312",
+          "title": "Object Oriented Programming Lab",
+          "hoursPerWeek": "0-0-2",
+          "credits": 1,
+          "CE": 15,
+          "ESE": 35
+        },
+        {
+          "code": "CS241318",
+          "title": "Python Programming Lab",
+          "hoursPerWeek": "0-0-2",
+          "credits": 1,
+          "CE": 15,
+          "ESE": 35
+        },
+        {
+          "code": "SI241321",
+          "title": "Social Internship",
+          "hoursPerWeek": "0-0-4",
+          "credits": 2,
+          "CE": null,
+          "ESE": 50
+        }
+      ]
+    }
+  }
+}
