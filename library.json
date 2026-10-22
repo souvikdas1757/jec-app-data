@@ -1,0 +1,10 @@
+{
+  "books": [
+    { "id": "1", "title": "Data Structures and Algorithms", "author": "Narasimha Karumanchi", "subject": "CSE", "available": true, "copies": 5 },
+    { "id": "2", "title": "Introduction to Algorithms", "author": "Thomas H. Cormen", "subject": "CSE", "available": false, "copies": 0 },
+    { "id": "3", "title": "Higher Engineering Mathematics", "author": "B.S. Grewal", "subject": "Mathematics", "available": true, "copies": 12 },
+    { "id": "4", "title": "Engineering Mechanics", "author": "S.S. Bhavikatti", "subject": "Mechanical", "available": true, "copies": 3 },
+    { "id": "5", "title": "Basic Electrical Engineering", "author": "V.K. Mehta", "subject": "Electrical", "available": false, "copies": 0 },
+    { "id": "6", "title": "Let Us C", "author": "Yashavant Kanetkar", "subject": "CSE", "available": true, "copies": 8 }
+  ]
+}
