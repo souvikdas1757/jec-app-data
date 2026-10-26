@@ -85,16 +85,275 @@
     ]
   },
   "EE": {
+    "1": [
+      {
+        "day": "Monday",
+        "classes": [
+          { "time": "08:00 - 09:00", "subject": "BEE Lab - Sec E", "room": "TBA", "type": "Lab", "color": "#A78BFA" },
+          { "time": "09:00 - 10:00", "subject": "BEE Lab - Sec B", "room": "TBA", "type": "Lab", "color": "#A78BFA" },
+          { "time": "10:30 - 11:30", "subject": "No Class", "room": "-", "type": "Break", "color": "#9CA3AF" },
+          { "time": "11:30 - 12:30", "subject": "No Class", "room": "-", "type": "Break", "color": "#9CA3AF" },
+          { "time": "02:00 - 03:00", "subject": "No Class", "room": "-", "type": "Break", "color": "#9CA3AF" },
+          { "time": "03:00 - 04:00", "subject": "No Class", "room": "-", "type": "Break", "color": "#9CA3AF" }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "classes": [
+          { "time": "08:00 - 09:00", "subject": "BEE - Sec A", "room": "TBA", "type": "Lecture", "color": "#60A5FA" },
+          { "time": "09:00 - 10:00", "subject": "BEE - Sec E", "room": "TBA", "type": "Lecture", "color": "#60A5FA" },
+          { "time": "10:30 - 11:30", "subject": "BEE - Sec B", "room": "TBA", "type": "Lecture", "color": "#60A5FA" },
+          { "time": "11:30 - 12:30", "subject": "BEE Lab - Sec B", "room": "TBA", "type": "Lab", "color": "#A78BFA" },
+          { "time": "02:00 - 03:00", "subject": "No Class", "room": "-", "type": "Break", "color": "#9CA3AF" },
+          { "time": "03:00 - 04:00", "subject": "No Class", "room": "-", "type": "Break", "color": "#9CA3AF" }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "classes": [
+          { "time": "08:00 - 09:00", "subject": "BEE - Sec B", "room": "TBA", "type": "Lecture", "color": "#60A5FA" },
+          { "time": "09:00 - 10:00", "subject": "BEE - Sec A", "room": "TBA", "type": "Lecture", "color": "#60A5FA" },
+          { "time": "10:30 - 11:30", "subject": "BEE Lab - Sec A", "room": "TBA", "type": "Lab", "color": "#A78BFA" },
+          { "time": "11:30 - 12:30", "subject": "No Class", "room": "-", "type": "Break", "color": "#9CA3AF" },
+          { "time": "02:00 - 03:00", "subject": "No Class", "room": "-", "type": "Break", "color": "#9CA3AF" },
+          { "time": "03:00 - 04:00", "subject": "No Class", "room": "-", "type": "Break", "color": "#9CA3AF" }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "classes": [
+          { "time": "08:00 - 09:00", "subject": "BEE - Sec B", "room": "TBA", "type": "Lecture", "color": "#60A5FA" },
+          { "time": "09:00 - 10:00", "subject": "BEE - Sec A", "room": "TBA", "type": "Lecture", "color": "#60A5FA" },
+          { "time": "10:30 - 11:30", "subject": "BEE Lab - Sec A", "room": "TBA", "type": "Lab", "color": "#A78BFA" },
+          { "time": "11:30 - 12:30", "subject": "No Class", "room": "-", "type": "Break", "color": "#9CA3AF" },
+          { "time": "02:00 - 03:00", "subject": "No Class", "room": "-", "type": "Break", "color": "#9CA3AF" },
+          { "time": "03:00 - 04:00", "subject": "No Class", "room": "-", "type": "Break", "color": "#9CA3AF" }
+        ]
+      },
+      {
+        "day": "Friday",
+        "classes": [
+          { "time": "08:00 - 09:00", "subject": "BEE - Sec E", "room": "TBA", "type": "Lecture", "color": "#60A5FA" },
+          { "time": "09:00 - 10:00", "subject": "BEE Lab - Sec E", "room": "TBA", "type": "Lab", "color": "#A78BFA" },
+          { "time": "10:30 - 11:30", "subject": "No Class", "room": "-", "type": "Break", "color": "#9CA3AF" },
+          { "time": "11:30 - 12:30", "subject": "No Class", "room": "-", "type": "Break", "color": "#9CA3AF" },
+          { "time": "02:00 - 03:00", "subject": "No Class", "room": "-", "type": "Break", "color": "#9CA3AF" },
+          { "time": "03:00 - 04:00", "subject": "No Class", "room": "-", "type": "Break", "color": "#9CA3AF" }
+        ]
+      },
+      {
+        "day": "Saturday",
+        "classes": [
+          { "time": "08:00 - 09:00", "subject": "BEE - Sec E", "room": "TBA", "type": "Lecture", "color": "#60A5FA" },
+          { "time": "09:00 - 10:00", "subject": "No Class", "room": "-", "type": "Break", "color": "#9CA3AF" },
+          { "time": "10:30 - 11:30", "subject": "No Class", "room": "-", "type": "Break", "color": "#9CA3AF" },
+          { "time": "11:30 - 12:30", "subject": "No Class", "room": "-", "type": "Break", "color": "#9CA3AF" },
+          { "time": "02:00 - 03:00", "subject": "No Class", "room": "-", "type": "Break", "color": "#9CA3AF" },
+          { "time": "03:00 - 04:00", "subject": "No Class", "room": "-", "type": "Break", "color": "#9CA3AF" }
+        ]
+      }
+    ],
     "3": [
       {
         "day": "Monday",
         "classes": [
-          { "time": "08:00 - 09:00", "subject": "Circuit Theory", "room": "TBA", "type": "Lecture", "color": "#60A5FA" },
-          { "time": "09:00 - 10:00", "subject": "Electrical Machines I", "room": "TBA", "type": "Lecture", "color": "#F472B6" },
-          { "time": "10:30 - 11:30", "subject": "Mathematics III", "room": "TBA", "type": "Lecture", "color": "#FBBF24" },
-          { "time": "11:30 - 12:30", "subject": "No Class", "room": "-", "type": "Break", "color": "#9CA3AF" },
-          { "time": "02:00 - 03:00", "subject": "Machines Lab", "room": "TBA", "type": "Lab", "color": "#A78BFA" },
-          { "time": "03:00 - 04:00", "subject": "Machines Lab", "room": "TBA", "type": "Lab", "color": "#A78BFA" }
+          { "time": "08:00 - 09:00", "subject": "Minor Subject", "room": "TBA", "type": "Lecture", "color": "#9CA3AF" },
+          { "time": "09:00 - 10:00", "subject": "Analog Electronics", "room": "TBA", "type": "Lecture", "color": "#60A5FA" },
+          { "time": "10:30 - 11:30", "subject": "Digital Electronics", "room": "TBA", "type": "Lecture", "color": "#22D3EE" },
+          { "time": "11:30 - 12:30", "subject": "Electrical Circuit Analysis", "room": "TBA", "type": "Lecture", "color": "#F472B6" },
+          { "time": "02:00 - 03:00", "subject": "EMc-I / DE / AE Lab", "room": "TBA", "type": "Lab", "color": "#A78BFA" },
+          { "time": "03:00 - 04:00", "subject": "No Class", "room": "-", "type": "Break", "color": "#9CA3AF" }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "classes": [
+          { "time": "08:00 - 09:00", "subject": "Minor Subject", "room": "TBA", "type": "Lecture", "color": "#9CA3AF" },
+          { "time": "09:00 - 10:00", "subject": "Electrical Circuit Analysis", "room": "TBA", "type": "Lecture", "color": "#F472B6" },
+          { "time": "10:30 - 11:30", "subject": "Analog Electronics", "room": "TBA", "type": "Lecture", "color": "#60A5FA" },
+          { "time": "11:30 - 12:30", "subject": "Electrical Machines-I", "room": "TBA", "type": "Lecture", "color": "#FBBF24" },
+          { "time": "02:00 - 03:00", "subject": "EMc-I / DE / AE Lab", "room": "TBA", "type": "Lab", "color": "#A78BFA" },
+          { "time": "03:00 - 04:00", "subject": "No Class", "room": "-", "type": "Break", "color": "#9CA3AF" }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "classes": [
+          { "time": "08:00 - 09:00", "subject": "Electrical Machines-I", "room": "TBA", "type": "Lecture", "color": "#FBBF24" },
+          { "time": "09:00 - 10:00", "subject": "Analog Electronics", "room": "TBA", "type": "Lecture", "color": "#60A5FA" },
+          { "time": "10:30 - 11:30", "subject": "Electrical Circuit Analysis", "room": "TBA", "type": "Lecture", "color": "#F472B6" },
+          { "time": "11:30 - 12:30", "subject": "Mathematics", "room": "TBA", "type": "Lecture", "color": "#FBBF24" },
+          { "time": "02:00 - 03:00", "subject": "Indian Knowledge Systems HS301", "room": "TBA", "type": "Lecture", "color": "#34D399" },
+          { "time": "03:00 - 04:00", "subject": "Language AU301", "room": "TBA", "type": "Lecture", "color": "#A78BFA" }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "classes": [
+          { "time": "08:00 - 09:00", "subject": "Minor Subject", "room": "TBA", "type": "Lecture", "color": "#9CA3AF" },
+          { "time": "09:00 - 10:00", "subject": "Digital Electronics", "room": "TBA", "type": "Lecture", "color": "#22D3EE" },
+          { "time": "10:30 - 11:30", "subject": "Electrical Machines-I", "room": "TBA", "type": "Lecture", "color": "#FBBF24" },
+          { "time": "11:30 - 12:30", "subject": "Mathematics", "room": "TBA", "type": "Lecture", "color": "#FBBF24" },
+          { "time": "02:00 - 03:00", "subject": "EMc-I / DE / AE Lab", "room": "TBA", "type": "Lab", "color": "#A78BFA" },
+          { "time": "03:00 - 04:00", "subject": "No Class", "room": "-", "type": "Break", "color": "#9CA3AF" }
+        ]
+      },
+      {
+        "day": "Friday",
+        "classes": [
+          { "time": "08:00 - 09:00", "subject": "Minor Subject", "room": "TBA", "type": "Lecture", "color": "#9CA3AF" },
+          { "time": "09:00 - 10:00", "subject": "Digital Electronics", "room": "TBA", "type": "Lecture", "color": "#22D3EE" },
+          { "time": "10:30 - 11:30", "subject": "Electrical Machines-I", "room": "TBA", "type": "Lecture", "color": "#FBBF24" },
+          { "time": "11:30 - 12:30", "subject": "Mathematics", "room": "TBA", "type": "Lecture", "color": "#FBBF24" },
+          { "time": "02:00 - 03:00", "subject": "Language AU301", "room": "TBA", "type": "Lecture", "color": "#A78BFA" },
+          { "time": "03:00 - 04:00", "subject": "Indian Knowledge Systems HS301", "room": "TBA", "type": "Lecture", "color": "#34D399" }
+        ]
+      },
+      {
+        "day": "Saturday",
+        "classes": [
+          { "time": "08:00 - 09:00", "subject": "Digital Electronics", "room": "TBA", "type": "Lecture", "color": "#22D3EE" },
+          { "time": "09:00 - 10:00", "subject": "Analog Electronics", "room": "TBA", "type": "Lecture", "color": "#60A5FA" },
+          { "time": "10:30 - 11:30", "subject": "Electrical Circuit Analysis", "room": "TBA", "type": "Lecture", "color": "#F472B6" },
+          { "time": "11:30 - 12:30", "subject": "Digital Electronics (verify duplicate)", "room": "TBA", "type": "Lecture", "color": "#22D3EE" },
+          { "time": "02:00 - 03:00", "subject": "No Class", "room": "-", "type": "Break", "color": "#9CA3AF" },
+          { "time": "03:00 - 04:00", "subject": "No Class", "room": "-", "type": "Break", "color": "#9CA3AF" }
+        ]
+      }
+    ],
+    "5": [
+      {
+        "day": "Monday",
+        "classes": [
+          { "time": "08:00 - 09:00", "subject": "Minor / Major", "room": "TBA", "type": "Lecture", "color": "#9CA3AF" },
+          { "time": "09:00 - 10:00", "subject": "Electrical and Electronic Measurements", "room": "TBA", "type": "Lecture", "color": "#34D399" },
+          { "time": "10:30 - 11:30", "subject": "Switchgear and Protection", "room": "TBA", "type": "Lecture", "color": "#60A5FA" },
+          { "time": "11:30 - 12:30", "subject": "Power Electronics and Drives", "room": "TBA", "type": "Lecture", "color": "#F472B6" },
+          { "time": "02:00 - 03:00", "subject": "PS Lab / PED Lab / EEM Lab", "room": "TBA", "type": "Lab", "color": "#A78BFA" },
+          { "time": "03:00 - 04:00", "subject": "No Class", "room": "-", "type": "Break", "color": "#9CA3AF" }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "classes": [
+          { "time": "08:00 - 09:00", "subject": "Minor / Major", "room": "TBA", "type": "Lecture", "color": "#9CA3AF" },
+          { "time": "09:00 - 10:00", "subject": "Advanced Control Systems", "room": "TBA", "type": "Lecture", "color": "#22D3EE" },
+          { "time": "10:30 - 11:30", "subject": "Electromagnetic Fields", "room": "TBA", "type": "Lecture", "color": "#FBBF24" },
+          { "time": "11:30 - 12:30", "subject": "Entrepreneurship and Industrial Management", "room": "TBA", "type": "Lecture", "color": "#FB923C" },
+          { "time": "02:00 - 03:00", "subject": "PS Lab / PED Lab / EEM Lab", "room": "TBA", "type": "Lab", "color": "#A78BFA" },
+          { "time": "03:00 - 04:00", "subject": "No Class", "room": "-", "type": "Break", "color": "#9CA3AF" }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "classes": [
+          { "time": "08:00 - 09:00", "subject": "Minor / Major", "room": "TBA", "type": "Lecture", "color": "#9CA3AF" },
+          { "time": "09:00 - 10:00", "subject": "Entrepreneurship and Industrial Management", "room": "TBA", "type": "Lecture", "color": "#FB923C" },
+          { "time": "10:30 - 11:30", "subject": "Advanced Control Systems", "room": "TBA", "type": "Lecture", "color": "#22D3EE" },
+          { "time": "11:30 - 12:30", "subject": "Electromagnetic Fields", "room": "TBA", "type": "Lecture", "color": "#FBBF24" },
+          { "time": "02:00 - 03:00", "subject": "PS Lab / PED Lab / EEM Lab", "room": "TBA", "type": "Lab", "color": "#A78BFA" },
+          { "time": "03:00 - 04:00", "subject": "No Class", "room": "-", "type": "Break", "color": "#9CA3AF" }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "classes": [
+          { "time": "08:00 - 09:00", "subject": "Minor / Major", "room": "TBA", "type": "Lecture", "color": "#9CA3AF" },
+          { "time": "09:00 - 10:00", "subject": "Switchgear and Protection", "room": "TBA", "type": "Lecture", "color": "#60A5FA" },
+          { "time": "10:30 - 11:30", "subject": "Power Electronics and Drives", "room": "TBA", "type": "Lecture", "color": "#F472B6" },
+          { "time": "11:30 - 12:30", "subject": "Electrical and Electronic Measurements", "room": "TBA", "type": "Lecture", "color": "#34D399" },
+          { "time": "02:00 - 03:00", "subject": "No Class", "room": "-", "type": "Break", "color": "#9CA3AF" },
+          { "time": "03:00 - 04:00", "subject": "No Class", "room": "-", "type": "Break", "color": "#9CA3AF" }
+        ]
+      },
+      {
+        "day": "Friday",
+        "classes": [
+          { "time": "08:00 - 09:00", "subject": "Minor / Major", "room": "TBA", "type": "Lecture", "color": "#9CA3AF" },
+          { "time": "09:00 - 10:00", "subject": "Switchgear and Protection", "room": "TBA", "type": "Lecture", "color": "#60A5FA" },
+          { "time": "10:30 - 11:30", "subject": "Power Electronics and Drives", "room": "TBA", "type": "Lecture", "color": "#F472B6" },
+          { "time": "11:30 - 12:30", "subject": "Electrical and Electronic Measurements", "room": "TBA", "type": "Lecture", "color": "#34D399" },
+          { "time": "02:00 - 03:00", "subject": "PS Lab / PED Lab / EEM Lab", "room": "TBA", "type": "Lab", "color": "#A78BFA" },
+          { "time": "03:00 - 04:00", "subject": "No Class", "room": "-", "type": "Break", "color": "#9CA3AF" }
+        ]
+      },
+      {
+        "day": "Saturday",
+        "classes": [
+          { "time": "08:00 - 09:00", "subject": "Minor / Major", "room": "TBA", "type": "Lecture", "color": "#9CA3AF" },
+          { "time": "09:00 - 10:00", "subject": "Switchgear and Protection", "room": "TBA", "type": "Lecture", "color": "#60A5FA" },
+          { "time": "10:30 - 11:30", "subject": "Electrical and Electronic Measurements", "room": "TBA", "type": "Lecture", "color": "#34D399" },
+          { "time": "11:30 - 12:30", "subject": "Advanced Control Systems", "room": "TBA", "type": "Lecture", "color": "#22D3EE" },
+          { "time": "02:00 - 03:00", "subject": "No Class", "room": "-", "type": "Break", "color": "#9CA3AF" },
+          { "time": "03:00 - 04:00", "subject": "No Class", "room": "-", "type": "Break", "color": "#9CA3AF" }
+        ]
+      }
+    ],
+    "7": [
+      {
+        "day": "Monday",
+        "classes": [
+          { "time": "08:00 - 09:00", "subject": "Power System-IV", "room": "TBA", "type": "Lecture", "color": "#60A5FA" },
+          { "time": "09:00 - 10:00", "subject": "High Voltage Engineering", "room": "TBA", "type": "Lecture", "color": "#FBBF24" },
+          { "time": "10:30 - 11:30", "subject": "FACTS", "room": "TBA", "type": "Lecture", "color": "#22D3EE" },
+          { "time": "11:30 - 12:30", "subject": "Computer Vision", "room": "TBA", "type": "Lecture", "color": "#F472B6" },
+          { "time": "02:00 - 03:00", "subject": "No Class", "room": "-", "type": "Break", "color": "#9CA3AF" },
+          { "time": "03:00 - 04:00", "subject": "No Class", "room": "-", "type": "Break", "color": "#9CA3AF" }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "classes": [
+          { "time": "08:00 - 09:00", "subject": "Power System-IV", "room": "TBA", "type": "Lecture", "color": "#60A5FA" },
+          { "time": "09:00 - 10:00", "subject": "FACTS", "room": "TBA", "type": "Lecture", "color": "#22D3EE" },
+          { "time": "10:30 - 11:30", "subject": "Principles of Management", "room": "TBA", "type": "Lecture", "color": "#FB923C" },
+          { "time": "11:30 - 12:30", "subject": "High Voltage Engineering", "room": "TBA", "type": "Lecture", "color": "#FBBF24" },
+          { "time": "02:00 - 03:00", "subject": "No Class", "room": "-", "type": "Break", "color": "#9CA3AF" },
+          { "time": "03:00 - 04:00", "subject": "No Class", "room": "-", "type": "Break", "color": "#9CA3AF" }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "classes": [
+          { "time": "08:00 - 09:00", "subject": "Principles of Management", "room": "TBA", "type": "Lecture", "color": "#FB923C" },
+          { "time": "09:00 - 10:00", "subject": "High Voltage Engineering", "room": "TBA", "type": "Lecture", "color": "#FBBF24" },
+          { "time": "10:30 - 11:30", "subject": "Power System-IV", "room": "TBA", "type": "Lecture", "color": "#60A5FA" },
+          { "time": "11:30 - 12:30", "subject": "Computer Vision", "room": "TBA", "type": "Lecture", "color": "#F472B6" },
+          { "time": "02:00 - 03:00", "subject": "No Class", "room": "-", "type": "Break", "color": "#9CA3AF" },
+          { "time": "03:00 - 04:00", "subject": "No Class", "room": "-", "type": "Break", "color": "#9CA3AF" }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "classes": [
+          { "time": "08:00 - 09:00", "subject": "Computer Vision", "room": "TBA", "type": "Lecture", "color": "#F472B6" },
+          { "time": "09:00 - 10:00", "subject": "FACTS", "room": "TBA", "type": "Lecture", "color": "#22D3EE" },
+          { "time": "10:30 - 11:30", "subject": "Power System-IV", "room": "TBA", "type": "Lecture", "color": "#60A5FA" },
+          { "time": "11:30 - 12:30", "subject": "High Voltage Engineering", "room": "TBA", "type": "Lecture", "color": "#FBBF24" },
+          { "time": "02:00 - 03:00", "subject": "No Class", "room": "-", "type": "Break", "color": "#9CA3AF" },
+          { "time": "03:00 - 04:00", "subject": "No Class", "room": "-", "type": "Break", "color": "#9CA3AF" }
+        ]
+      },
+      {
+        "day": "Friday",
+        "classes": [
+          { "time": "08:00 - 09:00", "subject": "Computer Vision", "room": "TBA", "type": "Lecture", "color": "#F472B6" },
+          { "time": "09:00 - 10:00", "subject": "High Voltage Engineering", "room": "TBA", "type": "Lecture", "color": "#FBBF24" },
+          { "time": "10:30 - 11:30", "subject": "Power System-IV", "room": "TBA", "type": "Lecture", "color": "#60A5FA" },
+          { "time": "11:30 - 12:30", "subject": "PED (PDF typo - verify)", "room": "TBA", "type": "Lecture", "color": "#F472B6" },
+          { "time": "02:00 - 03:00", "subject": "No Class", "room": "-", "type": "Break", "color": "#9CA3AF" },
+          { "time": "03:00 - 04:00", "subject": "No Class", "room": "-", "type": "Break", "color": "#9CA3AF" }
+        ]
+      },
+      {
+        "day": "Saturday",
+        "classes": [
+          { "time": "08:00 - 09:00", "subject": "Power System-IV", "room": "TBA", "type": "Lecture", "color": "#60A5FA" },
+          { "time": "09:00 - 10:00", "subject": "High Voltage Engineering", "room": "TBA", "type": "Lecture", "color": "#FBBF24" },
+          { "time": "10:30 - 11:30", "subject": "FACTS", "room": "TBA", "type": "Lecture", "color": "#22D3EE" },
+          { "time": "11:30 - 12:30", "subject": "Computer Vision", "room": "TBA", "type": "Lecture", "color": "#F472B6" },
+          { "time": "02:00 - 03:00", "subject": "No Class", "room": "-", "type": "Break", "color": "#9CA3AF" },
+          { "time": "03:00 - 04:00", "subject": "No Class", "room": "-", "type": "Break", "color": "#9CA3AF" }
         ]
       }
     ]
